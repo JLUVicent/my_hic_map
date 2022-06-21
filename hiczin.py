@@ -12,6 +12,7 @@ import time
 import warnings
 
 ##Ignore the warning information of package deprecation##
+##忽略软件包弃用的警告信息
 warnings.filterwarnings("ignore")
 
 __version__ = '0.1.0, released at 12/2020'
@@ -170,6 +171,7 @@ if __name__ == '__main__':
                 
 
             else:
+                #生成接触图
                 cm = ContactMatrix_LC(args.BAM,
                                 args.FASTA,
                                 args.TAX,
@@ -194,8 +196,8 @@ if __name__ == '__main__':
                 contig_file = os.path.join(args.OUTDIR ,'contig_info.csv')
                 valid_file = os.path.join(args.OUTDIR ,'valid_contact.csv')
                 thres = ifelse(args.thres, runtime_defaults['thres'])
+                #归一化结果
                 norm_result = r.HiCzin(contig_file , valid_file , thres)
-            
                 hzmap = HiCzinMap_LC(args.OUTDIR,
                                 cm.seq_info,
                                 cm.seq_map,

@@ -250,6 +250,7 @@ class ContactMatrix:
         logger.info('Filtering contigs according to minimal signal({})...'.format(self.min_signal))
         contig_id = self.max_offdiag()
         logger.debug('{} contigs remain'.format(len(contig_id)))
+        logger.debug('{} contig_id的值'.format((contig_id)))
 
         seq_temp = [] ###temporately store the sequence information#######
         for i , idn in enumerate(contig_id):
@@ -511,9 +512,10 @@ class ContactMatrix:
         """
         _m = self.seq_map
         assert scisp.isspmatrix(_m), 'Input matrix is not a scipy.sparse object'
-        _m = _m.tolil(True)
-        _m.setdiag(0)
-        _sig = np.asarray(_m.tocsr().max(axis=0).todense()).ravel()
+        _m = _m.tolil(True)#转化矩阵为列表格式
+        _m.setdiag(0)#设置主对角线元素为0
+        #asarray：将输入转换为数组 
+        _sig = np.asarray(_m.tocsr().max(axis=0).todense()).ravel()#ravel返回展开之后的元素数组
         _contig_id = []
         for i in range(_m.shape[0]):
             if _sig[i] >= self.min_signal:
@@ -522,7 +524,7 @@ class ContactMatrix:
         return _contig_id           
                 
 
-
+#创建一个新元组
 SeqInfo_LC = namedtuple('SeqInfo_LC', ['localid', 'refid', 'name', 'length' , 'GC' , 'cov' , 'tax']) #create a new class of tuple: SeqInfo_LC              
             
 class ContactMatrix_LC:
@@ -532,13 +534,13 @@ class ContactMatrix_LC:
         ########input the parameter################
         ########################################################################
         ########################################################################
-        #bam_file: alignment info of Hi-C library on contigs in bam#
-        #enzymes: name of restriction enzymes used in Hi-C experiments#
-        #seq_file: store the assembly contigs in fasta#
-        #tax_file: labeled contigs by TaxAssign in csv#
-        #coverage_file: coverage information of contigs in txt#
-        #min_mapq: minimal mapping quality(default 30)#
-        #min_len: minimal length of contigs(default 1000bp)
+        #bam_file: alignment info of Hi-C library on contigs in bam#        bam文件
+        #enzymes: name of restriction enzymes used in Hi-C experiments#     
+        #seq_file: store the assembly contigs in fasta#                     seq文件，fasta文件
+        #tax_file: labeled contigs by TaxAssign in csv#                     标签文件
+        #coverage_file: coverage information of contigs in txt#             覆盖率文件
+        #min_mapq: minimal mapping quality(default 30)#                     
+        #min_len: minimal length of contigs(default 1000bp)                 最下bp限制
 
         self.bam_file = bam_file
         self.seq_file = seq_file
@@ -568,34 +570,44 @@ class ContactMatrix_LC:
         self.must_contact = {}
         
         logger.info('Reading fasta file...')
+        #1.处理fasta文件
         with open_input(seq_file) as multi_fasta:
             # fasta_info is a dictionary of preparation of seq_info and seq_info is the true results
             # get an estimate of sequences for progress
+            #计算fasta的数量
             fasta_count = count_fasta_sequences(seq_file)
             for seqrec in tqdm.tqdm(SeqIO.parse(multi_fasta, 'fasta'), total=fasta_count , desc='Analyzing contigs in reference fasta'):
                 if len(seqrec) < min_len:
                     continue
+                #fasta_info存储fasta的长度和GC含量
                 self.fasta_info[seqrec.id] = {'length': len(seqrec), 'GC': GC(seqrec.seq)}
-
+        # print(f"fasta_info为{self.fasta_info}")
         logger.debug('There are {} contigs in reference fasta'.format(fasta_count))
         ########deal with the coverage file##############
         #######input the coverage information##################
+        #2.处理覆盖率文件
         cov = pd.read_table(self.coverage_file , header=0)
         ##########cov_info is a dict storing coverage information###
+        #存储覆盖率信息
         cov = cov.values[0: , [0,2]]
         for i in range(cov.shape[0]):
             self.cov_info[cov[i , 0].split(' ')[0]] = cov[i , 1]
+        # print(f"cov_info为{self.cov_info}")
         del cov
 
         logger.info('Generating contig labels...')
         # generate the label information given by TAXAssign#
+        #3.生成标签信息
         self._generate_tax()
         
         # now parse the header information from bam file
         ###########input the bam data###############
         #########seq_info contain the global contig information and we don't change the seq_info after being created##############
+        #seq_info创建后无法改变
+        #4.解析bam文件
         with pysam.AlignmentFile(bam_file, 'rb') as bam:
         ##test that BAM file is the correct sort order
+        #判断输入的bam文件是否被分类
             if 'SO' not in bam.header['HD'] or bam.header['HD']['SO'] != 'queryname':
                 raise IOError('BAM file must be sorted by read name')
 
@@ -609,20 +621,26 @@ class ContactMatrix_LC:
             localid = 0
             
             for n, (rname, rlen) in enumerate(zip(bam.references, bam.lengths)):
-            # minimum length threshold
-                if rlen < min_len:
+                # print(f"n为{n}")
+                # print(f"rname为{rname}")
+                # print(f"rlen为{rlen}")
+                #rname为contigs的名 k141_4451
+                #rlen为contigs的长度 
+            # minimum length threshold 1000
+                if rlen < min_len:#小于1000
                     ref_count['too_short'] += 1
                     #self.short.append([rname , rlen])
                     continue
 
                 try:
                     fa = self.fasta_info[rname]
-                    if rname not in self.cov_info.keys():
+                    if rname not in self.cov_info.keys():#rname不在cov_info字典中，
                         logger.info('No coverage information for contig {}'.format(rname))
                         raise IOError('No coverage information for one contig')
                     else:
+                        #cov_temp存储bam中对应rname的cov值
                         cov_temp = self.cov_info[rname]
-                    if rname in self.tax_info.keys():
+                    if rname in self.tax_info.keys():#标签信息
                         tax_temp = self.tax_info[rname]
                     else:
                         tax_temp = 'Unassign'
@@ -637,6 +655,7 @@ class ContactMatrix_LC:
                 self.seq_info.append(SeqInfo_LC(localid , n , rname, rlen,  fa['GC'] , cov_temp , tax_temp))
                 localid = localid + 1
                 offset += rlen
+            # print(f"seq_info为{self.seq_info}")
 
             ####### total length of contigs##########
             ####### total_seq is number of contigs###
@@ -654,7 +673,8 @@ class ContactMatrix_LC:
             logger.info('Counting reads in bam file...')
 
  
-            self.total_reads = bam.count(until_eof=True)
+            self.total_reads = bam.count(until_eof=True)#count：计算比对上的reads的数目
+            # print(f"total_reads为{self.total_reads}")
             logger.debug('BAM file contains {0} alignments'.format(self.total_reads))
 
             logger.info('Handling the alignments...')
@@ -664,34 +684,41 @@ class ContactMatrix_LC:
 
         logger.info('Filtering contigs according to minimal signal({})...'.format(self.min_signal))
         contig_id = self.max_offdiag()
+        # print(f"contig的编号为：{contig_id}")
         logger.debug('{} contigs remain'.format(len(contig_id)))
 
         seq_temp = [] ###temporately store the sequence information#######
+        #暂时存储seq信息，enumerate返回对象的下标和对应的值
         for i , idn in enumerate(contig_id):
             seq = self.seq_info[idn]
             assert seq.localid == idn, 'the local index does not match the contact matrix index'
             seq_temp.append(SeqInfo_LC(i , seq.refid , seq.name , seq.length , seq.GC , seq.cov , seq.tax))
 
         self.seq_info = seq_temp  
+        # print(f"seq_info为：{self.seq_info}")
         del seq_temp   
 
-        self.seq_map = self.seq_map.tocsr()
+        self.seq_map = self.seq_map.tocsr()#将矩阵转为压缩稀疏行格式
         self.seq_map = self.seq_map[contig_id , :]
-        self.seq_map = self.seq_map.tocsc()
+        self.seq_map = self.seq_map.tocsc()#将矩阵转为压缩稀疏列格式
         self.seq_map = self.seq_map[: , contig_id]
         self.seq_map = self.seq_map.tocoo()  
-        del contig_id
+        # print(f"seq_map类型为：{type(self.seq_map)}")
+        # print(f"seq_map为：{self.seq_map.toarray()}")
+        del contig_id#del只是删除变量引用
 
-        assert self.seq_map.shape[0] == len(self.seq_info), 'Filter error'
+        assert self.seq_map.shape[0] == len(self.seq_info), 'Filter error'#shape[0]矩阵的行数
 
         logger.info('Generating intra-species contig pairs...')
         self._generate_coalign()
         self._find_must_contact()
         
         logger.info('Writing valid intra-species contacts...')
+        #将连接输出到文件中
         self._write_must_contact()
         
         logger.info('Writing acceptable contig information...')
+        #将contigs信息输出到文件中
         self._write_contig_info()
         
 
@@ -703,12 +730,14 @@ class ContactMatrix_LC:
         taxaHeader = pd.read_csv(TAXAassign_file, sep=',', nrows=1)
         taxaassignMat = pd.read_csv(TAXAassign_file, sep=',', header=None, usecols=range(0, taxaHeader.shape[1]))
         #deleta all unspecific taxaassign at species level#
-        ex_list = list(taxaassignMat[6])
+        # ex_list = list(taxaassignMat[6])
+        ex_list = list(taxaassignMat[1])
         ex_list_new = []
         for i in ex_list:
             if i != '__Unclassified__':
                 ex_list_new.append(i)
-        taxaassignMat = taxaassignMat[taxaassignMat[6].isin(ex_list_new)]
+        # taxaassignMat = taxaassignMat[taxaassignMat[6].isin(ex_list_new)]
+        taxaassignMat = taxaassignMat[taxaassignMat[1].isin(ex_list_new)]
         taxaassignMat = taxaassignMat.values
 
         #select useful information#
@@ -721,26 +750,30 @@ class ContactMatrix_LC:
         del namelist, taxlist, taxaassignMat, ex_list, ex_list_new
 
     def _generate_coalign(self):
-    ##namelist is original contig names
+    ##namelist is original contig names 原始contigs名称
     ##taxassignmat is the original information
-        _contig_name = list(self.seq_info[i].name for i in range(len(self.seq_info)))
-        _localid = list(self.seq_info[i].localid for i in range(len(self.seq_info)))
+        _contig_name = list(self.seq_info[i].name for i in range(len(self.seq_info)))#contigs名 k141_2670
+        _localid = list(self.seq_info[i].localid for i in range(len(self.seq_info)))#编号
         ref = list(zip(_localid , _contig_name))
         ref = np.array(ref)
+        # print(f"ref为{ref}")
+        # print(self.tax_info)
     
         namelist_filter = []
         taxaassignMat_filter_coalign = []
 
-        for name , tax in self.tax_info.items():
-            if name in _contig_name:
+        for name , tax in self.tax_info.items(): #name为contigs名 tax为标签
+            if name in _contig_name:#如果name在contig_name中就在filter中加入list
                 namelist_filter.append(name)
                 taxaassignMat_filter_coalign.append(tax)
 
         namelist_filter = np.array(namelist_filter)
         taxaassignMat_filter_coalign = np.array(taxaassignMat_filter_coalign)
 
-        taxa_filter_label = np.unique(taxaassignMat_filter_coalign)
-        genomeNum_filter = taxa_filter_label.shape[0]
+        # print(namelist_filter,taxaassignMat_filter_coalign) #测试集中文件夹为空
+
+        taxa_filter_label = np.unique(taxaassignMat_filter_coalign)#标签矩阵
+        genomeNum_filter = taxa_filter_label.shape[0]#行大小，有几个标签分为几类
         contigs_cluster_map = [[] for i in range(genomeNum_filter)]
         for i in range(genomeNum_filter):
             for j in range(len(taxaassignMat_filter_coalign)):  
@@ -748,11 +781,12 @@ class ContactMatrix_LC:
                     contigs_cluster_map[i].append(j)
 
         for i in range(genomeNum_filter):
-            temp_combine = list(combinations(contigs_cluster_map[i], 2))
+            temp_combine = list(combinations(contigs_cluster_map[i], 2))#排列组合
             for j in range(len(temp_combine)):
                 x = np.int(ref[np.where(ref[:,1] == namelist_filter[temp_combine[j][0]])[0][0]][0])
                 y = np.int(ref[np.where(ref[:,1] == namelist_filter[temp_combine[j][1]])[0][0]][0])
                 self.coalign.append((x, y))
+        # print(f"coalign为{type(self.coalign)}")
         del self.tax_info, _contig_name, _localid, ref, contigs_cluster_map, namelist_filter, taxaassignMat_filter_coalign
         logger.debug('There are {} intra-species contig pairs'.format(len(self.coalign)))
 
@@ -760,10 +794,12 @@ class ContactMatrix_LC:
 
     def _find_must_contact(self):
         ########This function help us find samples of the intraspecies contacts##########
+        #找到种内接触样本
 
-        _seq_map = self.seq_map
-        _seq_map = _seq_map.tolil()
-
+        _seq_map = self.seq_map 
+        _seq_map = _seq_map.tolil()#转换矩阵为list格式
+        print(f"_seq_map为{_seq_map}")
+        print("+++++++++++++++++++++++++++++++++++++++++++")
         num_must = 0
         for j in self.coalign:
             temp_map = _seq_map[j]
@@ -869,7 +905,8 @@ class ContactMatrix_LC:
                 
         self.seq_map = _seq_map.get_coo()
         del _seq_map, r1, r2, _idx
-
+        # print(f"counts为{counts}")
+        # print(f"权重为{self.map_weight}")
         logger.debug('Pair accounting: {}'.format(counts))
         logger.debug('Total map weight of contact between different contigs: {}'.format(self.map_weight()))
 
@@ -918,11 +955,13 @@ class ContactMatrix_LC:
 
     def max_offdiag(self):
         """
+        contig_id = self.max_offdiag()
+
         Determine the maximum off-diagonal values of a given symmetric matrix. As this
         is assumed to be symmetric, we consider only the rows.
 
         :param _m: a scipy.sparse matrix
-        :return: the off-diagonal maximum values
+        :return: the off-diagonal maximum values 非对角最大值
         """
         _m = self.seq_map
         assert scisp.isspmatrix(_m), 'Input matrix is not a scipy.sparse object'
@@ -936,3 +975,30 @@ class ContactMatrix_LC:
         del _m
         return _contig_id    
 
+
+if __name__=='__main__':
+    logger.info('Begin to test the HiCzin software...')
+    ENZ = 'HindIII'
+    FASTA = '/media/ubuntu/conda/vicent/HiCzin/my_data_617/final.contigs.fa'
+    BAM = '/media/ubuntu/conda/vicent/HiCzin/my_data_617/MAP_SORTED.bam'
+    TAX = '/media/ubuntu/conda/vicent/HiCzin/my_data_617/vicent616_blast_out.csv'
+    COV = '/media/ubuntu/conda/vicent/HiCzin/my_data_617/coverage616.txt'
+    logger.info('Begin to test the contact map construction section...')
+    runtime_defaults = {
+        'min_len': 1000,
+        'min_signal': 2,
+        'min_mapq': 30,
+        'min_match': 30,
+        'thres': 0.05
+    }
+    # bam_file,  seq_file, tax_file, coverage_file , path , min_mapq=30, min_len=1000, min_match=30, min_signal=2
+    cm = ContactMatrix_LC(BAM,
+                    FASTA,
+                    TAX,
+                    COV,
+                    './my_614',
+                    min_mapq=runtime_defaults['min_mapq'],
+                    min_len=runtime_defaults['min_len'],
+                    min_match=runtime_defaults['min_match'],
+                    min_signal=0)
+    print("输出完成")

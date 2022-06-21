@@ -1,0 +1,2093 @@
+k141_5486	Nocardia nova strain MDA5529 NODE_21_length_117497_cov_20.9672, whole genome shotgun sequence
+k141_2290	Streptomyces novaecaesareae strain NRRL B-1267 contig135.1, whole genome shotgun sequence
+k141_6398	Vibrio chemaguriensis strain Iso1 8, whole genome shotgun sequence
+k141_687	Flavobacterium cheniae strain CGMCC 1.6844 IP97DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_7768	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_8224	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_4120	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_5259	Vibrio chemaguriensis strain Iso1 5, whole genome shotgun sequence
+k141_3893	Streptomyces narbonensis strain JCM 4147 sequence064, whole genome shotgun sequence
+k141_8678	Pseudoalteromonas denitrificans DSM 6059, whole genome shotgun sequence
+k141_9821	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13697	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4122	Streptomyces narbonensis strain JCM 4147 sequence147, whole genome shotgun sequence
+k141_2978	Streptomyces novaecaesareae strain NRRL B-1267 contig31.1, whole genome shotgun sequence
+k141_8682	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_13929	Shewanella hanedai strain JCM 20706 NODE_21_length_111032_cov_41.513168, whole genome shotgun sequence
+k141_9604	Streptomyces narbonensis strain JCM 4147 sequence195, whole genome shotgun sequence
+k141_8910	Amycolatopsis jejuensis strain NRRL B-24427 contig36.1, whole genome shotgun sequence
+k141_11642	Ottowia oryzae strain KADR8-3 chromosome, complete genome
+k141_5496	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10047	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7771	Francisella hispaniensis, complete sequence
+k141_6863	Lysinibacillus meyeri strain WS4626 NODE_55_length_14488_cov_56.543278, whole genome shotgun sequence
+k141_923	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_5723	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1381	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5945	Streptococcus equinus strain pGA-7, whole genome shotgun sequence
+k141_4580	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_6869	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14378	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_4581	Micromonospora globispora strain S2904 NODE_285_length_6598_cov_15.1708_ID_569, whole genome shotgun sequence
+k141_11417	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_13014	Streptomyces novaecaesareae strain NRRL B-1267 contig31.1, whole genome shotgun sequence
+k141_4582	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3901	Streptomyces narbonensis strain JCM 4147 sequence106, whole genome shotgun sequence
+k141_7093	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_6871	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_19	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_14155	Photobacterium aquae strain CGMCC 1.12159 contig0103, whole genome shotgun sequence
+k141_7778	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_22	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_3438	Pseudomonas capsici strain Pc19-3 Pc19_3_NODE_21_length_97820_cov_87.624638, whole genome shotgun sequence
+k141_2293	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_1848	Mycoplasma mycoides subsp. capri str. GM12 chromosome clone deltatypeIIIres, complete genome
+k141_1145	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_5260	Streptomyces narbonensis strain JCM 4147 sequence116, whole genome shotgun sequence
+k141_10279	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_31	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2065	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_10502	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_2067	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_1849	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_41	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7326	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_2071	Oceanobacillus bengalensis strain MCCC 1K00260 NODE_59_length_8242_cov_3.665805, whole genome shotgun sequence
+k141_9140	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_8693	Oceanobacillus oncorhynchi strain Oc5, whole genome shotgun sequence
+k141_8466	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_5039	Halococcus sediminicola strain CBA1101, whole genome shotgun sequence
+k141_9142	Streptomyces narbonensis strain JCM 4147 sequence106, whole genome shotgun sequence
+k141_2521	Nonomuraea candida strain NRRL B-24552 contig60.1, whole genome shotgun sequence
+k141_4352	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8468	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2074	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_4133	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_5265	Rhodovulum viride strain JA756 NODE_184_length_465_cov_7.20488_ID_367, whole genome shotgun sequence
+k141_1619	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14157	Phaeocystidibacter marisrubri strain JCM 30614 2, whole genome shotgun sequence
+k141_7785	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_4134	Haloferax sulfurifontis strain CCM 7217 sequence17, whole genome shotgun sequence
+k141_9369	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7100	Methanospirillum stamsii strain Pt1 DSM26304_27, whole genome shotgun sequence
+k141_13711	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_4590	Streptomyces novaecaesareae strain NRRL B-1267 contig90.1, whole genome shotgun sequence
+k141_7333	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_8913	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2085	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_9605	Flavobacterium ummariense strain DS-12, whole genome shotgun sequence
+k141_6873	Neptunomonas phycophila strain Scap09 chromosome
+k141_13019	Leptolyngbya cf. ectocarpi LEGE 11479 NODE_413_length_9001_cov_3.40557_(reversed), whole genome shotgun sequence
+k141_1383	Pseudomonas laurentiana strain JCM 32154 sequence167, whole genome shotgun sequence
+k141_2752	Glycocaulis profundi strain ZYF765 scaffold_301, whole genome shotgun sequence
+k141_6406	Streptomyces narbonensis strain JCM 4147 sequence195, whole genome shotgun sequence
+k141_12564	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_6875	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_13249	Terrilactibacillus laevilacticus strain SK5-6 sequence09, whole genome shotgun sequence
+k141_7804	Streptomyces novaecaesareae strain NRRL B-1267 contig54.1, whole genome shotgun sequence
+k141_9607	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_10508	Puteibacter caeruleilacunae strain JC036 scaffold_22, whole genome shotgun sequence
+k141_4357	Leptospira terpstrae serovar Hualin str. LT 11-33 = ATCC 700639 strain LT 11-33 ctg7180000024129, whole genome shotgun sequence
+k141_1620	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3909	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11872	Paraclostridium dentum strain SKVG24 NODE_112_length_606_cov_0-901701, whole genome shotgun sequence
+k141_13954	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_8013	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6878	Staphylococcus simulans strain SNUC 1325 contig003, whole genome shotgun sequence
+k141_927	Methylobacterium indicum strain NS230 contig_270, whole genome shotgun sequence
+k141_695	Kitasatospora phosalacinea strain NRRL B-16230 contig17.1, whole genome shotgun sequence
+k141_479	Methanothermus fervidus DSM 2088, complete sequence
+k141_9373	Crocinitomix algicola strain 0182 contig8, whole genome shotgun sequence
+k141_11873	Priestia taiwanensis strain CGMCC 1.12698 sequence01, whole genome shotgun sequence
+k141_12101	Ruficoccus amylovorans strain JCM31066 Gn_411_198714_19956377, whole genome shotgun sequence
+k141_2980	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_10958	Rhodovulum viride strain JA756 NODE_255_length_295_cov_7.87083_ID_509, whole genome shotgun sequence
+k141_12565	Nostoc paludosum FACHB-159 contig14, whole genome shotgun sequence
+k141_3210	Acinetobacter seifertii strain S21 chromosome, complete genome
+k141_8015	Rhodovulum viride strain JA756 NODE_270_length_261_cov_2.26699_ID_539, whole genome shotgun sequence
+k141_8922	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_9377	Amycolatopsis jejuensis strain NRRL B-24427 contig41.1, whole genome shotgun sequence
+k141_246	Lentilactobacillus parakefiri strain KR NODE_59_length_7793_cov_2.88369, whole genome shotgun sequence
+k141_6881	Vibrio chemaguriensis strain Iso1 44, whole genome shotgun sequence
+k141_1158	Herpetosiphon llansteffanensis strain CA052B NODE_49_length_39630_cov_31_9789_ID_4238, whole genome shotgun sequence
+k141_5044	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9610	Streptococcus koreensis strain KCOM 2890 (=JS71) chromosome, complete genome
+k141_7117	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2091	Neisseria zalophi strain ATCC BAA-2455 chromosome, complete genome
+k141_8694	Vibrio salilacus strain DSG-S6 NODE_8_length_149445_cov_1398.57, whole genome shotgun sequence
+k141_2298	Lentilactobacillus parakefiri strain KR NODE_119_length_523_cov_1.19658, whole genome shotgun sequence
+k141_7118	Ahniella affigens strain D13 chromosome, complete genome
+k141_12567	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11191	Chryseobacterium antibioticum strain RP-3-3 contig12, whole genome shotgun sequence
+k141_13027	Vibrio chemaguriensis strain Iso1 44, whole genome shotgun sequence
+k141_5271	Orenia marismortui strain MSL 6dP Ga0206412_136, whole genome shotgun sequence
+k141_13962	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12783	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5272	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_8240	Trinickia fusca strain 7MK8-2 scaffold6, whole genome shotgun sequence
+k141_13031	Peribacillus cavernae strain L5 18849_L5_1__paired__trimmed__paired__contig_31, whole genome shotgun sequence
+k141_9148	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_7122	Fructilactobacillus fructivorans strain LF543 chromosome, complete genome
+k141_4145	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6627	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_4146	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9616	Oceanobacillus oncorhynchi strain Oc5, whole genome shotgun sequence
+k141_5737	Sporohalobacter salinus strain DSM 26781 Ga0454048_12, whole genome shotgun sequence
+k141_1409	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_4361	Streptomyces narbonensis strain JCM 4147 sequence053, whole genome shotgun sequence
+k141_4148	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4595	Romboutsia lituseburensis DSM 797, whole genome shotgun sequence
+k141_1411	Streptomyces narbonensis strain JCM 4147 sequence100, whole genome shotgun sequence
+k141_5273	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_10971	Lactobacillus amylovorus strain S60 NODE_3_length_85492_cov_48.830931, whole genome shotgun sequence
+k141_8698	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_8024	Bradyrhizobium campsiandrae strain INPA 384B NODE_146_length_2683_cov_93.085955, whole genome shotgun sequence
+k141_5275	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_10733	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6407	Streptomyces novaecaesareae strain NRRL B-1267 contig146.1, whole genome shotgun sequence
+k141_14381	Pseudomonas salina strain CGMCC 1.12482 sequence04, whole genome shotgun sequence
+k141_2985	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10513	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_12568	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_3214	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11878	Anaerobranca californiensis DSM 14826, whole genome shotgun sequence
+k141_2097	Rhizobium metallidurans strain DSM 26575 Ga0373242_53, whole genome shotgun sequence
+k141_8244	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3217	Halococcus sediminicola strain CBA1101, whole genome shotgun sequence
+k141_11652	Sneathiella limimaris strain KCTC 52846 NODE_1_length_2859372_cov_51.501346, whole genome shotgun sequence
+k141_256	Simplicispira lacusdiani strain CPCC 100842 Scaffold26, whole genome shotgun sequence
+k141_2098	Bacteroides luti strain DSM 26991, whole genome shotgun sequence
+k141_8245	Streptomyces bikiniensis strain NRRL ISP-5580 contig26.1, whole genome shotgun sequence
+k141_4596	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9381	Limosilactobacillus mucosae strain LM011 chromosome
+k141_4812	Kushneria sinocarnis strain DSM 23229 Ga0215664_111, whole genome shotgun sequence
+k141_2986	Limnoglobus roseus strain PX52 chromosome, complete genome
+k141_10518	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_257	Francisella frigiditurris strain CA97-1460 chromosome, complete genome
+k141_11879	Lysinibacillus composti strain MCCC 1A12701 NODE_1_length_714845_cov_62.494504, whole genome shotgun sequence
+k141_258	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_13712	Massilia flava strain DSM 26639 chromosome, complete genome
+k141_2995	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_2537	Rhodovulum viride strain JA756 NODE_270_length_261_cov_2.26699_ID_539, whole genome shotgun sequence
+k141_8700	Lentilactobacillus parakefiri strain KR NODE_230_length_212_cov_0.726115, whole genome shotgun sequence
+k141_11653	Streptomyces tuirus strain JCM 4255 chromosome
+k141_2303	Psychromonas hadalis ATCC BAA-638 G322DRAFT_scaffold00005.5_C, whole genome shotgun sequence
+k141_4813	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8704	Streptomyces novaecaesareae strain NRRL B-1267 contig86.1, whole genome shotgun sequence
+k141_2100	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_9159	Filimonas effusa strain TTM-71 NODE_6_length_100232_cov_66, whole genome shotgun sequence
+k141_2539	Brachybacterium nesterenkovii strain CIP104813, whole genome shotgun sequence
+k141_5738	Zobellia amurskyensis strain KMM 3526 contig00004, whole genome shotgun sequence
+k141_5280	Lactobacillus kalixensis DSM 16043 Scaffold20, whole genome shotgun sequence
+k141_8249	Clostridium saccharobutylicum DSM 13864, complete sequence
+k141_10984	Tissierella pigra strain WCA3-693-APC-4 seq2, whole genome shotgun sequence
+k141_707	Actinobacillus porcinus strain NM319, whole genome shotgun sequence
+k141_2307	Neptunicella marina strain S27-2 NODE_1_length_512424_cov_194.185, whole genome shotgun sequence
+k141_12329	Crocinitomix catalasitica ATCC 23190 T367DRAFT_scaffold00006.6_C, whole genome shotgun sequence
+k141_2755	Anaerobiospirillum succiniciproducens DSM 6400 H524DRAFT_scaffold00027.27_C, whole genome shotgun sequence
+k141_12570	Devosia insulae DS-56 contig373, whole genome shotgun sequence
+k141_3910	Rudanella lutea DSM 19387 RudluDRAFT_scaffold1.1, whole genome shotgun sequence
+k141_10520	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_11656	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10522	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6171	Pseudomonas soli strain SJ10 chromosome, complete genome
+k141_5952	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_8713	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9618	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8714	Simplicispira lacusdiani strain CPCC 100842 Scaffold26, whole genome shotgun sequence
+k141_12799	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8932	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11668	Streptomyces niger strain NRRL B-3857 contig44.1, whole genome shotgun sequence
+k141_9383	Virgibacillus dokdonensis strain 21D, complete genome.
+k141_3218	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_10050	Rhodovulum viride strain JA756 NODE_202_length_396_cov_4.31378_ID_403, whole genome shotgun sequence
+k141_2102	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_709	Fructobacillus ficulneus strain JCM 12225, whole genome shotgun sequence
+k141_10051	Cupriavidus pauculus strain CCUG 12507 contig_0000029, whole genome shotgun sequence
+k141_13032	Deinococcus daejeonensis strain JCM 16918 sequence67, whole genome shotgun sequence
+k141_8937	Streptomyces xylophagus strain NRRL B-12029 contig66.1, whole genome shotgun sequence
+k141_1636	Parashewanella tropica strain MEBiC05444 chromosome, complete genome
+k141_10734	Phascolarctobacterium faecium strain JCM 30894 chromosome, complete genome
+k141_6882	Sphingobium fluviale strain CHR27 NODE_4_length_197198_cov_109, whole genome shotgun sequence
+k141_8031	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13264	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_2758	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6884	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11213	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7816	Actinophytocola xinjiangensis strain CGMCC 4.4663 contig54, whole genome shotgun sequence
+k141_14159	Serratia ficaria strain NCTC12148 chromosome 1, complete sequence
+k141_8477	Clostridium saccharoperbutylacetonicum N1-4(HMT), complete sequence
+k141_13717	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_3449	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5509	Streptomyces bikiniensis strain NRRL ISP-5580 contig36.1, whole genome shotgun sequence
+k141_5510	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13037	Actinomadura darangshiensis strain DSM 45941 NODE_5_length_86676_cov_15.2926, whole genome shotgun sequence
+k141_9825	Parabacteroides bouchesdurhonensis strain Marseille-P3763, whole genome shotgun sequence
+k141_6178	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11007	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4827	Anaerophilus nitritogenes strain MJB2 70, whole genome shotgun sequence
+k141_9827	Paraburkholderia madseniana strain RP11 NODE_105_length_32569_cov_8.584551, whole genome shotgun sequence
+k141_12334	Lawsonia intracellularis N343, complete sequence
+k141_7146	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_5957	Nocardia nova strain MDA5529 NODE_3_length_471440_cov_22.0892, whole genome shotgun sequence
+k141_9829	Actinomadura meyerae strain DSM 44715, whole genome shotgun sequence
+k141_9388	Streptomyces avellaneus strain NRRL B-3447 contig9.1, whole genome shotgun sequence
+k141_4154	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_11675	Streptomyces xylophagus strain NRRL B-12029 contig66.1, whole genome shotgun sequence
+k141_11220	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_6885	Salifodinibacter halophilus strain USBA 960 NODE_4_length_4413_cov_7.01707, whole genome shotgun sequence
+k141_8034	Flavobacterium anhuiense strain GSE09, complete genome.
+k141_6886	Vibrio chemaguriensis strain Iso1 5, whole genome shotgun sequence
+k141_12119	Glycocaulis profundi strain ZYF765 scaffold_301, whole genome shotgun sequence
+k141_13718	Geosporobacter ferrireducens strain IRF9, complete sequence.
+k141_3226	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8950	Peribacillus cavernae strain L5 18849_L5_1__paired__trimmed__paired__contig_58, whole genome shotgun sequence
+k141_7818	Polaribacter gangjinensis strain KCTC 22729 scaffold00001, whole genome shotgun sequence
+k141_2108	Chryseobacterium caeni DSM 17710 K319DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+k141_9619	Pseudoalteromonas flavipulchra strain LMG 20361 NODE_7_length_337863_cov_37.049275_pilon, whole genome shotgun sequence
+k141_3227	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_264	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_2998	Psychroflexus sediminis strain DSM 19803, whole genome shotgun sequence
+k141_13965	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13469	Bacteroides helcogenes P 36-108, complete sequence
+k141_2566	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13966	Amycolatopsis vancoresmycina strain NRRL B-24208 contig5.1, whole genome shotgun sequence
+k141_4155	Hydrogenovibrio kuenenii DSM 12350 N745DRAFT_scf7180000000004_quiver.1_C, whole genome shotgun sequence
+k141_119	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_8951	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_265	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_717	Amylibacter ulvae strain KCTC 32465 sequence01, whole genome shotgun sequence
+k141_8478	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_266	Glycocaulis profundi strain ZYF765 scaffold_155, whole genome shotgun sequence
+k141_2110	Urechidicola croceus strain LPB0138 chromosome, complete genome
+k141_3002	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_9642	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_14163	Brachybacterium sacelli strain DSM 14566 Ga0451132_01, whole genome shotgun sequence
+k141_7364	Rhodovulum viride strain JA756 NODE_194_length_429_cov_3.37701_ID_387, whole genome shotgun sequence
+k141_11222	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13271	Prauserella isguenensis strain CECT 8577 Ga0372423_05, whole genome shotgun sequence
+k141_13969	Streptomyces ochraceiscleroticus strain NRRL ISP-5594 contig19.1, whole genome shotgun sequence
+k141_5743	Kribbella monticola strain NEAU-SW521 scaffold29, whole genome shotgun sequence
+k141_12120	Acidovorax temperans strain DSM 7270 Ga0242573_13, whole genome shotgun sequence
+k141_130	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_1414	Pseudomonas saxonica strain DSM 108989 1_1547637_26.6009, whole genome shotgun sequence
+k141_11223	Vibrio cincinnatiensis strain NCTC12012, whole genome shotgun sequence
+k141_8252	Falsochrobactrum shanghaiense strain HN4 HM4_scaffold5, whole genome shotgun sequence
+k141_8481	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_132	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1654	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10737	Flavobacterium alkalisoli strain XS-5 chromosome, complete genome
+k141_1182	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_719	Gramella fulva strain SH35 chromosome, complete genome
+k141_5520	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11227	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2760	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_2113	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1183	Arenibacter latericius DSM 15913 H344DRAFT_scaffold00005.5_C, whole genome shotgun sequence
+k141_11229	Streptomyces narbonensis strain JCM 4147 sequence165, whole genome shotgun sequence
+k141_11679	Streptomyces narbonensis strain JCM 4147 sequence211, whole genome shotgun sequence
+k141_11424	Actinophytocola xinjiangensis strain CGMCC 4.4663 contig54, whole genome shotgun sequence
+k141_2568	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_8486	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8036	Paraliobacillus quinghaiensis strain YIM-C158 Scaffold4_1, whole genome shotgun sequence
+k141_13744	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_5746	Amniculibacterium aquaticum strain KYPW7 contig02, whole genome shotgun sequence
+k141_10743	Streptomyces bikiniensis strain NRRL ISP-5580 contig56.1, whole genome shotgun sequence
+k141_5287	Streptomyces narbonensis strain JCM 4147 sequence060, whole genome shotgun sequence
+k141_2117	Crinalium epipsammum PCC 9333, complete sequence
+k141_4365	Flammeovirga kamogawensis strain YS10 contig1, whole genome shotgun sequence
+k141_4832	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8488	Weissella uvarum strain DSM 28060 Ga0454057_07, whole genome shotgun sequence
+k141_276	Clostridium peptidivorans isolate src2, whole genome shotgun sequence
+k141_14176	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5290	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1190	Prochlorococcus marinus subsp. marinus str. CCMP1375, complete sequence
+k141_4366	Desulfovibrio legallii strain H1T scaffold_1, whole genome shotgun sequence
+k141_277	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_10538	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11687	Acidithrix ferrooxidans strain Py-F3 AXFE_contig000140, whole genome shotgun sequence
+k141_11425	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_5748	Amycolatopsis jejuensis strain NRRL B-24427 contig41.1, whole genome shotgun sequence
+k141_5291	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3009	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_9389	Chamaesiphon polymorphus CCALA 037 NODE_288_length_11741_cov_4.68699_ID_69794, whole genome shotgun sequence
+k141_9390	Vibrio chemaguriensis strain Iso1 16, whole genome shotgun sequence
+k141_1858	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3450	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_3010	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_7824	Clostridium peptidivorans isolate src2, whole genome shotgun sequence
+k141_1416	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_147	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_5295	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2769	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_149	Streptomyces novaecaesareae strain NRRL B-1267 contig110.1, whole genome shotgun sequence
+k141_8260	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_3454	Nonomuraea endophytica strain DSM 45385 Ga0415315_28, whole genome shotgun sequence
+k141_1860	Rhodovulum viride strain JA756 NODE_255_length_295_cov_7.87083_ID_509, whole genome shotgun sequence
+k141_6890	Streptomyces narbonensis strain JCM 4147 sequence207, whole genome shotgun sequence
+k141_721	Actinobacillus vicugnae isolate W16181, whole genome shotgun sequence
+k141_8497	Lachnospira multipara ATCC 19207 G600DRAFT_scaffold00011.11_C, whole genome shotgun sequence
+k141_10281	Pontibacter oryzae strain KIRAN contig1, whole genome shotgun sequence
+k141_1424	Treponema lecithinolyticum ATCC 700332 Scaffold37, whole genome shotgun sequence
+k141_3016	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_726	Streptomyces novaecaesareae strain NRRL B-1267 contig111.1, whole genome shotgun sequence
+k141_2778	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1669	Chryseolinea serpens strain DSM 24574, whole genome shotgun sequence
+k141_727	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_1864	Lacrimispora amygdalina isolate src4, whole genome shotgun sequence
+k141_7825	Vibrio atlanticus chromosome 2, complete sequence
+k141_2570	Staphylococcus kloosii strain 14_4_1_W 14_4_1_W_1, whole genome shotgun sequence
+k141_10763	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5298	Streptomyces malaysiense strain MUSC 136 95, whole genome shotgun sequence
+k141_939	Chryseobacterium senegalense strain FF12, whole genome shotgun sequence
+k141_12351	Veillonella infantium strain T11011-4 Contig_2_len_232008, whole genome shotgun sequence
+k141_6894	Lactobacillus jensenii strain SNUV360 chromosome, complete genome
+k141_731	Flavobacterium phycosphaerae strain MK012 unitig_0_quiver, whole genome shotgun sequence
+k141_6419	Alkalihalobacillus nanhaiisediminis strain CGMCC 1.10116 IQ10DRAFT_scaffold00002.2, whole genome shotgun sequence
+k141_5966	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_7147	Pararhizobium haloflavum strain XC0140 NODE_30_length_2402_cov_10.1222, whole genome shotgun sequence
+k141_1867	Paenibacillus abyssi strain CGMCC 1.12987 sequence09, whole genome shotgun sequence
+k141_11232	Glycocaulis profundi strain ZYF765 scaffold_495, whole genome shotgun sequence
+k141_6895	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8051	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_292	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_951	Streptomyces narbonensis strain JCM 4147 sequence042, whole genome shotgun sequence
+k141_293	Algoriphagus sanaruensis strain M8-2, complete genome.
+k141_9660	Companilactobacillus furfuricola strain JCM 18764 contig15, whole genome shotgun sequence
+k141_952	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13747	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2318	Streptomyces narbonensis strain JCM 4147 sequence148, whole genome shotgun sequence
+k141_7831	Dolichospermum circinale AWQC131C 131C_Scaffold7, whole genome shotgun sequence
+k141_5751	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_1437	Marinitoga litoralis strain DSM 21709 Ga0454015_05, whole genome shotgun sequence
+k141_5301	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_5523	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_2319	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_8262	Anaeromyxobacter dehalogenans 2CP-1, complete sequence
+k141_7541	Aliiroseovarius halocynthiae strain MA1-10 Scaffold6, whole genome shotgun sequence
+k141_2578	Methanobrevibacter boviskoreani JH1, whole genome shotgun sequence
+k141_11015	Angelakisella massiliensis strain Marseille-P3217T, whole genome shotgun sequence
+k141_155	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6427	Pseudoalteromonas aurantia 208 contig009_2, whole genome shotgun sequence
+k141_12138	Emticicia aquatilis strain CGMCC 1.15958 sequence02, whole genome shotgun sequence
+k141_5525	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_10289	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_295	Helicobacter labetoulli strain 48519 NODE_1_length_155286_cov_283.034, whole genome shotgun sequence
+k141_736	Rhizobium oryziradicis strain N19 scaffold11, whole genome shotgun sequence
+k141_6900	Polaribacter atrinae strain KACC 17473 LPB303_10, whole genome shotgun sequence
+k141_8054	Enterovibrio norvegicus isolate Alg239-V16, whole genome shotgun sequence
+k141_10052	Dysgonomonas capnocytophagoides strain MRSN571793 MRSN571793_contig00013, whole genome shotgun sequence
+k141_7836	Streptomyces narbonensis strain JCM 4147 sequence130, whole genome shotgun sequence
+k141_5752	Bartonella rattimassiliensis 15908 supercont1.3, whole genome shotgun sequence
+k141_4613	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4841	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11018	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1438	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_10557	Simplicispira lacusdiani strain CPCC 100842 Scaffold26, whole genome shotgun sequence
+k141_2780	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12585	Amycolatopsis jejuensis strain NRRL B-24427 contig4.1, whole genome shotgun sequence
+k141_4616	Haloferax sulfurifontis strain CCM 7217 sequence16, whole genome shotgun sequence
+k141_1441	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_10059	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_4395	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_5757	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2786	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2787	Corynebacterium crudilactis strain JZ16 plasmid pCRULAC1, complete sequence
+k141_2788	Streptomyces novaecaesareae strain NRRL B-1267 contig122.1, whole genome shotgun sequence
+k141_2588	Sediminibacterium soli strain WSJ-3 wsj-3_6, whole genome shotgun sequence
+k141_13970	Actinomyces glycerinitolerans isolate G10_assembly1, whole genome shotgun sequence
+k141_1675	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_2789	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_9161	Lactobacillus thailandensis DSM 22698 = JCM 13996 strain DSM 22698 Scaffold7, whole genome shotgun sequence
+k141_12596	Paracoccus aestuarii strain DSM 19484 NODE_17_length_43080_cov_40.204, whole genome shotgun sequence
+k141_13471	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1210	Dictyobacter kobayashii strain Uno11 sequence1, whole genome shotgun sequence
+k141_9406	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_297	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1447	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12599	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8278	Rhodovulum viride strain JA756 NODE_264_length_277_cov_4_ID_527, whole genome shotgun sequence
+k141_5761	Haloquadratum walsbyi DSM 16790, complete sequence
+k141_11696	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11233	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1875	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11698	Bradyrhizobium campsiandrae strain INPA 384B NODE_48_length_75211_cov_89.642559, whole genome shotgun sequence
+k141_2794	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_12145	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5062	Haloferax sulfurifontis strain CCM 7217 sequence16, whole genome shotgun sequence
+k141_1453	Kitasatospora phosalacinea strain NRRL B-16230 contig83.1, whole genome shotgun sequence
+k141_8502	Jeotgalibaca dankookensis strain EX-07 chromosome, complete genome
+k141_8953	Lewinella cohaerens DSM 23179 A3EUDRAFT_scaffold_5.6, whole genome shotgun sequence
+k141_6182	Geobacter pelophilus strain Dfr2, whole genome shotgun sequence
+k141_1882	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6183	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_2800	Streptomyces novaecaesareae strain NRRL B-1267 contig135.1, whole genome shotgun sequence
+k141_4157	Sneathiella chinensis strain LMG23452 contig8, whole genome shotgun sequence
+k141_10768	Limosilactobacillus agrestis strain BG-MG3-A scaffold58, whole genome shotgun sequence
+k141_13044	Vibrio hepatarius strain 070516A scaffold_10, whole genome shotgun sequence
+k141_4853	Kribbella monticola strain NEAU-SW521 scaffold29, whole genome shotgun sequence
+k141_7160	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13472	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5529	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_12157	Streptomyces novaecaesareae strain NRRL B-1267 contig101.1, whole genome shotgun sequence
+k141_972	Virgibacillus alimentarius strain J18T KHU-J18_contig_31, whole genome shotgun sequence
+k141_8718	Actinomyces radicidentis strain CCUG 36733 chromosome, complete genome
+k141_3022	Macrococcus epidermidis strain 01/688 NODE_3_length_205171_cov_186.173890, whole genome shotgun sequence
+k141_8967	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_8721	Streptomyces novaecaesareae strain NRRL B-1267 contig84.1, whole genome shotgun sequence
+k141_2334	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_977	Peribacillus cavernae strain L5 18849_L5_1__paired__trimmed__paired__contig_19, whole genome shotgun sequence
+k141_739	Buchnera aphidicola str. Bp (Baizongia pistaciae), complete sequence
+k141_740	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6914	Bartonella mastomydis strain 008, whole genome shotgun sequence
+k141_4854	Streptomyces albidochromogenes strain DSM 41800 NODE_320_length_7145_cov_17.4071, whole genome shotgun sequence
+k141_3667	Rhodovulum viride strain JA756 NODE_200_length_401_cov_3.57514_ID_399, whole genome shotgun sequence
+k141_11701	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6185	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_14179	Oceanobacillus bengalensis strain MCCC 1K00260 NODE_59_length_8242_cov_3.665805, whole genome shotgun sequence
+k141_1220	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_9169	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11710	Streptomyces novaecaesareae strain NRRL B-1267 contig27.1, whole genome shotgun sequence
+k141_2338	Streptomyces novaecaesareae strain NRRL B-1267 contig47.1, whole genome shotgun sequence
+k141_6916	Levilactobacillus huananensis strain 151-2B contig5, whole genome shotgun sequence
+k141_11712	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14387	Maribacter ulvicola strain DSM 15366, whole genome shotgun sequence
+k141_9415	Vibrio penaeicida strain CAIM 285 CAIM285T_30, whole genome shotgun sequence
+k141_13048	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_4158	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11718	Streptomyces bikiniensis strain NRRL ISP-5580 contig8.1, whole genome shotgun sequence
+k141_5535	Loktanella ponticola strain DSM 101064 Ga0373357_01, whole genome shotgun sequence
+k141_11719	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6435	Pasteurella bettyae CCUG 2042 contig00015, whole genome shotgun sequence
+k141_7853	Maledivibacter halophilus strain M1, whole genome shotgun sequence
+k141_5067	Paenibacillus alba strain LMG 31323 NODE_8_length_213288_cov_24.537100, whole genome shotgun sequence
+k141_13300	Endozoicomonas montiporae CL-33 chromosome
+k141_13049	Dactylosporangium sucinum strain JCM 19831 sequence220, whole genome shotgun sequence
+k141_3464	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13301	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_13051	Bradyrhizobium campsiandrae strain INPA 384B NODE_48_length_75211_cov_89.642559, whole genome shotgun sequence
+k141_6924	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_12354	Chryseobacterium sediminis strain IMT-174 Chryseobacteium.sediminis-2_scaffold1, whole genome shotgun sequence
+k141_304	Arachidicoccus rhizosphaerae strain Vu-144, whole genome shotgun sequence
+k141_8973	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_6927	Nocardia suismassiliense strain S-137, whole genome shotgun sequence
+k141_4859	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_4163	Kluyvera sichuanensis strain 090646 contig00029, whole genome shotgun sequence
+k141_1686	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5312	Rhodovulum viride strain JA756 NODE_264_length_277_cov_4_ID_527, whole genome shotgun sequence
+k141_10570	Waltera intestinalis strain WCA3-601-WT-6H seq1, whole genome shotgun sequence
+k141_2146	Methanothermus fervidus DSM 2088, complete sequence
+k141_5968	Parasulfuritortus cantonensis strain LSR1 tig00000014, whole genome shotgun sequence
+k141_7365	Paraclostridium dentum strain SKVG24 NODE_223_length_383_cov_0-738562, whole genome shotgun sequence
+k141_12806	Streptacidiphilus anmyonensis strain NBRC 103185, whole genome shotgun sequence
+k141_5548	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_10065	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_13758	Lactobacillus rodentium strain DSM 24759 sequence03, whole genome shotgun sequence
+k141_9170	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_12605	Haematospirillum jordaniae strain H5569 chromosome, complete genome
+k141_11889	Prevotella paludivivens DSM 17968 = JCM 13650 strain DSM 17968 B045DRAFT_scaffold_8.9, whole genome shotgun sequence
+k141_2806	Streptomyces narbonensis strain JCM 4147 sequence130, whole genome shotgun sequence
+k141_8722	Rhodovulum viride strain JA756 NODE_255_length_295_cov_7.87083_ID_509, whole genome shotgun sequence
+k141_7368	Oceanithermus desulfurans strain DSM 15757 Ga0416727_07, whole genome shotgun sequence
+k141_7857	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10778	Streptomyces narbonensis strain JCM 4147 sequence042, whole genome shotgun sequence
+k141_12355	Bacillus coahuilensis p1.1.43 ABFP000002, whole genome shotgun sequence
+k141_1473	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_11239	Flavobacterium frigidarium DSM 17623 H603DRAFT_scaffold00004.4, whole genome shotgun sequence
+k141_1222	Confluentibacter flavum strain 3B 486, whole genome shotgun sequence
+k141_10316	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10784	Haloferax sulfurifontis strain CCM 7217 sequence16, whole genome shotgun sequence
+k141_2622	Bartonella saheliensis strain 077, whole genome shotgun sequence
+k141_11427	Mangrovibacterium diazotrophicum strain DSM 27148 Ga0131256_103, whole genome shotgun sequence
+k141_307	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_1477	Phycicoccus jejuensis strain NRRL B-24460 contig7.1, whole genome shotgun sequence
+k141_12162	Acidaminococcus timonensis strain Marseille-P2764T, whole genome shotgun sequence
+k141_9848	Streptomyces hydrogenans strain JCM 4771 sequence005, whole genome shotgun sequence
+k141_5552	Vibrio pectenicida strain 99-46-Y scaffold_48, whole genome shotgun sequence
+k141_4621	Jeotgalibaca porci strain CCUG 69148 chromosome, complete genome
+k141_13054	Streptococcus equinus strain pGA-7, whole genome shotgun sequence
+k141_10319	Ferrimonas lipolytica strain S7 chromosome, complete genome
+k141_8062	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13058	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_313	Glycocaulis profundi strain ZYF765 scaffold_155, whole genome shotgun sequence
+k141_5969	Riemerella columbina DSM 16469 C237DRAFT_scaffold_14.15, whole genome shotgun sequence
+k141_11899	Streptomyces narbonensis strain JCM 4147 sequence165, whole genome shotgun sequence
+k141_4863	Acinetobacter dispersus strain NCCP 16014 chromosome, complete genome
+k141_8289	Streptomyces narbonensis strain JCM 4147 sequence211, whole genome shotgun sequence
+k141_3244	Rhodovulum viride strain JA756 NODE_223_length_353_cov_3.25168_ID_445, whole genome shotgun sequence
+k141_10322	Halobacteroides halobius DSM 5150, complete sequence
+k141_6453	Corallococcus aberystwythensis strain AB050A NODE_31_48133_cov_24.4224_ID_11499, whole genome shotgun sequence
+k141_6454	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_12165	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8295	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_9663	Rhodovulum viride strain JA756 NODE_202_length_396_cov_4.31378_ID_403, whole genome shotgun sequence
+k141_2160	Crateriforma conspicua strain Mal65 chromosome
+k141_8065	Streptomyces narbonensis strain JCM 4147 sequence146, whole genome shotgun sequence
+k141_6457	Streptomyces narbonensis strain JCM 4147 sequence084, whole genome shotgun sequence
+k141_985	Aliidiomarina celeris strain F3105 NODE_5_length_163517_cov_127.560965, whole genome shotgun sequence
+k141_8723	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_8974	Devosia marina strain L53-10-65 NODE_31_length_1124_cov_1.992024, whole genome shotgun sequence
+k141_316	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11908	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_13484	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5970	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14182	Photobacterium frigidiphilum strain JCM 12947 CFSAN065507_3, whole genome shotgun sequence
+k141_1478	Cupriavidus oxalaticus strain T2 chromosome 2, complete sequence
+k141_12356	Flavobacterium faecale strain WV33 chromosome, complete genome
+k141_4640	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_205	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_1483	Streptomyces narbonensis strain JCM 4147 sequence125, whole genome shotgun sequence
+k141_1484	Streptomyces avellaneus strain NRRL B-3447 contig31.1, whole genome shotgun sequence
+k141_2812	Belliella aquatica strain CGMCC 1.12479 sequence03, whole genome shotgun sequence
+k141_2813	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_326	Lentilactobacillus parakefiri strain KR NODE_59_length_7793_cov_2.88369, whole genome shotgun sequence
+k141_742	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10786	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_12361	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7371	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5554	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_11242	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_11243	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8724	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4172	Fusobacterium mortiferum ATCC 9817 chromosome, complete genome
+k141_11918	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_7378	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3698	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_3699	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5077	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3702	Streptomyces narbonensis strain JCM 4147 sequence106, whole genome shotgun sequence
+k141_3030	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3704	Streptomyces narbonensis strain JCM 4147 sequence125, whole genome shotgun sequence
+k141_5080	Bradyrhizobium campsiandrae strain INPA 384B NODE_50_length_67298_cov_83.098927, whole genome shotgun sequence
+k141_2819	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6191	Microbacterium karelineae strain TRM 80801 353, whole genome shotgun sequence
+k141_2624	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9665	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3248	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11246	Haloferax sulfurifontis strain CCM 7217 sequence17, whole genome shotgun sequence
+k141_10581	Streptomyces narbonensis strain JCM 4147 sequence111, whole genome shotgun sequence
+k141_8303	Francisella frigiditurris strain CA97-1460 chromosome, complete genome
+k141_749	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_6947	Absicoccus porci strain YH-panp20 panp20_1, whole genome shotgun sequence
+k141_14397	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6201	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2823	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_14399	Streptomyces narbonensis strain JCM 4147 sequence101, whole genome shotgun sequence
+k141_756	Collinsella aerofaciens strain D40t1_170626_B5 NODE_47_length_7132_cov_6.01984, whole genome shotgun sequence
+k141_8731	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11923	Desulfuribacillus alkaliarsenatis strain AHT28 DSM-24608_Contig_0_85X, whole genome shotgun sequence
+k141_4649	Paraburkholderia monticola strain JC2948 10.BMJC2948.1.00017, whole genome shotgun sequence
+k141_6949	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_11440	Streptomyces novaecaesareae strain NRRL B-1267 contig5.1, whole genome shotgun sequence
+k141_12808	Photobacterium leiognathi subsp. mandapamensis svers.1.1., whole genome shotgun sequence
+k141_337	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13492	Spiroplasma chinense strain CCH chromosome, complete genome
+k141_12175	Paraclostridium dentum strain SKVG24 NODE_74_length_899_cov_1-682482, whole genome shotgun sequence
+k141_3470	Leptospira broomii serovar Hurstbridge str. 5399 ctg1134731807512, whole genome shotgun sequence
+k141_5083	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4175	Novosphingobium naphthalenivorans NBRC 102051, whole genome shotgun sequence
+k141_11023	Xylanivirga thermophila strain SYSU GA17129 Scaffold17_1, whole genome shotgun sequence
+k141_4878	Devosia insulae DS-56 contig373, whole genome shotgun sequence
+k141_764	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10586	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13499	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12370	Lactobacillus hokkaidonensis JCM 18461 strain LOOC260 chromosome, complete genome
+k141_13997	Vibrio sonorensis strain CAIM 1076 contig00002, whole genome shotgun sequence
+k141_11442	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3940	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome
+k141_14000	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9856	Legionella lansingensis strain NCTC12830 chromosome 1, complete sequence
+k141_9673	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_12809	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2355	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4402	Methylomonas koyamae strain R-49807 contig_32_(1..41150), whole genome shotgun sequence
+k141_11927	Flavobacterium xinjiangense strain CGMCC 1.2749, whole genome shotgun sequence
+k141_2828	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6634	Flavobacterium succinicans strain DSM 4002, whole genome shotgun sequence
+k141_5771	Cystobacter ferrugineus strain Cbfe23 Contig_115, whole genome shotgun sequence
+k141_7555	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6950	Bartonella taylorii strain IBS325 Ga0118431_1020, whole genome shotgun sequence
+k141_12610	Arthrobacter dokdonellae isolate rhizosphere chromosome, complete genome
+k141_8735	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_770	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12176	Streptomyces xylophagus strain NRRL B-12029 contig78.1, whole genome shotgun sequence
+k141_4405	Streptomyces narbonensis strain JCM 4147 sequence037, whole genome shotgun sequence
+k141_6954	Lentilactobacillus parakefiri strain KR NODE_59_length_7793_cov_2.88369, whole genome shotgun sequence
+k141_5330	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13315	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_338	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5560	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6644	Streptomyces narbonensis strain JCM 4147 sequence125, whole genome shotgun sequence
+k141_10071	Mycoplasma mycoides subsp. capri str. GM12 chromosome clone deltatypeIIIres, complete genome
+k141_13761	Emcibacter nanhaiensis strain MCCC 1A06723 5, whole genome shotgun sequence
+k141_12615	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9679	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11736	Nostoc cycadae WK-1, whole genome shotgun sequence
+k141_7386	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_8521	Aquiflexum aquatile strain Z0201 Scaffold2_2, whole genome shotgun sequence
+k141_3475	Streptomyces narbonensis strain JCM 4147 sequence181, whole genome shotgun sequence
+k141_12382	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5095	Vibrio penaeicida strain CAIM 285 CAIM285T_30, whole genome shotgun sequence
+k141_8526	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_9438	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2627	Halanaerobium congolense strain DSMZ 11287 Ga0206404_105, whole genome shotgun sequence
+k141_780	Fusobacterium necrophorum subsp. funduliforme strain 1_1_36S chromosome, complete genome
+k141_3712	Sphingobacterium athyrii strain M46 Scaffold4, whole genome shotgun sequence
+k141_8309	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_987	Hafnia alvei strain A23BA chromosome, complete genome
+k141_11034	Vibrio pectenicida strain 99-46-Y scaffold_60, whole genome shotgun sequence
+k141_2166	Pontibacter burrus strain BT327 31415.BT327.1_1_BT327.00001_31415.BT327.1, whole genome shotgun sequence
+k141_8738	Caminicella sporogenes strain AM 1114 contig_10, whole genome shotgun sequence
+k141_12386	Kribbella monticola strain NEAU-SW521 scaffold29, whole genome shotgun sequence
+k141_4879	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_10793	Wenyingzhuangia fucanilytica strain CZ1127, complete genome.
+k141_7169	Clostridium paraputrificum AGR2156 G594DRAFT_scaffold00015.15_C, whole genome shotgun sequence
+k141_11261	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_8542	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_10798	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_12191	Streptomyces xylophagus strain NRRL B-12029 contig172.1, whole genome shotgun sequence
+k141_1897	Staphylococcus nepalensis strain NCTC13834, whole genome shotgun sequence
+k141_8985	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_8079	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11932	Leptospira ellinghausenii strain E18, whole genome shotgun sequence
+k141_782	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9445	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10596	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12625	Pseudomonas laurentiana strain JCM 32154 sequence167, whole genome shotgun sequence
+k141_10803	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4414	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14015	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3256	Roseiconus lacunae strain JC635 NODE_16_length_66615_cov_72.692245, whole genome shotgun sequence
+k141_8326	Neptunomonas phycophila strain Scap09 chromosome
+k141_3719	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_14403	Psychroflexus aestuariivivens strain 52073 585, whole genome shotgun sequence
+k141_7181	Nonomuraea spiralis strain JCM 3286 sequence004, whole genome shotgun sequence
+k141_6207	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9685	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_9686	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_6464	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_10807	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3941	Brachyspira catarrhinii strain Z12 Contig_354, whole genome shotgun sequence
+k141_2356	Belliella buryatensis strain 5C, whole genome shotgun sequence
+k141_9454	Amycolatopsis antarctica strain AU-G6 NODE_52_length_1038_cov_0.70472, whole genome shotgun sequence
+k141_1512	Flavobacterium psychrotolerans strain RB1R5 NODE_15_length_81147_cov_307.351314, whole genome shotgun sequence
+k141_1229	Pseudomonas putida NBRC 14164, complete sequence
+k141_3033	Micromonospora humi strain DSM 45647, whole genome shotgun sequence
+k141_13066	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_7186	Vibrio cyclitrophicus strain ECSMB14105 chromosome 2, complete sequence
+k141_5561	Lactobacillus oryzae JCM 18671 strain SG293, whole genome shotgun sequence
+k141_13070	Peribacillus cavernae strain L5 18849_L5_1__paired__trimmed__paired__contig_19, whole genome shotgun sequence
+k141_1708	Rhodovulum viride strain JA756 NODE_218_length_363_cov_5.42857_ID_435, whole genome shotgun sequence
+k141_5776	Chitinophaga terrae Kim and Jung 2007 strain DSM 23920, whole genome shotgun sequence
+k141_10072	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_347	Endozoicomonas montiporae CL-33 chromosome
+k141_11452	Clostridium punense strain DSM 28650 Ga0454145_24, whole genome shotgun sequence
+k141_10074	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_6484	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_12390	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_13319	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11265	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_12391	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14020	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_8986	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_14025	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_8085	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_1709	Lentilactobacillus parakefiri strain KR NODE_134_length_394_cov_1.56932, whole genome shotgun sequence
+k141_350	Brachyspira catarrhinii strain Z12 Contig_354, whole genome shotgun sequence
+k141_13762	Gilliamella apicola strain wkB1 chromosome, complete genome
+k141_8553	Streptomyces bikiniensis strain NRRL ISP-5580 contig26.1, whole genome shotgun sequence
+k141_10601	Aquimarina agarivorans strain HQM9 contig035, whole genome shotgun sequence
+k141_13330	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13071	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11269	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11454	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3258	Psychroflexus sediminis strain DSM 19803, whole genome shotgun sequence
+k141_792	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12817	Polaribacter vadi strain LPB0003 chromosome, complete genome
+k141_5108	Neptunicella marina strain S27-2 NODE_1_length_512424_cov_194.185, whole genome shotgun sequence
+k141_519	Glycocaulis profundi strain ZYF765 scaffold_119, whole genome shotgun sequence
+k141_1910	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4651	Rhodovulum viride strain JA756 NODE_200_length_401_cov_3.57514_ID_399, whole genome shotgun sequence
+k141_12629	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5565	Ensifer adhaerens strain Casida A, complete sequence.
+k141_11050	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5566	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10603	Flavobacterium cauense R2A-7 FCR2A7T_19, whole genome shotgun sequence
+k141_10077	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_4655	Algihabitans albus strain HHTR 118 1K03486_S44_L002_R1_001_(paired)_contig_4, whole genome shotgun sequence
+k141_7875	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5346	Peribacillus cavernae strain L5 18849_L5_1__paired__trimmed__paired__contig_58, whole genome shotgun sequence
+k141_12818	Otariodibacter oris strain Baika1 chromosome, complete genome
+k141_11056	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_211	Anaerobutyricum soehngenii strain BSM-383-APC-4H seq1, whole genome shotgun sequence
+k141_4424	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_11459	Amycolatopsis jejuensis strain NRRL B-24427 contig41.1, whole genome shotgun sequence
+k141_8092	Streptomyces narbonensis strain JCM 4147 sequence192, whole genome shotgun sequence
+k141_8356	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1004	Raoultella electrica strain DSM 102253 chromosome, complete genome
+k141_5783	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_8359	Streptomyces novaecaesareae strain NRRL B-1267 contig170.1, whole genome shotgun sequence
+k141_8993	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7198	Corallococcus carmarthensis strain CA043D NODE_379_4694_cov_25.8202_ID_11337, whole genome shotgun sequence
+k141_11271	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_6224	Nitrincola schmidtii strain NCAIM B.02626 Scaffold9, whole genome shotgun sequence
+k141_9702	Wenyingzhuangia fucanilytica strain CZ1127, complete genome.
+k141_11465	Limosilactobacillus gorillae strain KZ01(T)=JCM19575(T)=DSM28356(T), whole genome shotgun sequence
+k141_1231	Chlorobium chlorochromatii CaD3, complete sequence
+k141_9455	Faecalicatena contorta isolate MGYG-HGUT-01499, whole genome shotgun sequence
+k141_6488	Photobacterium aquae strain CGMCC 1.12159 contig0103, whole genome shotgun sequence
+k141_1015	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_4180	Caballeronia udeis isolate LMG 27134, whole genome shotgun sequence
+k141_5112	Morococcus cerebrosus strain CIP 81.93 MCC93_157, whole genome shotgun sequence
+k141_14029	Streptomyces narbonensis strain JCM 4147 sequence123, whole genome shotgun sequence
+k141_5351	Salifodinibacter halophilus strain USBA 960 NODE_4_length_4413_cov_7.01707, whole genome shotgun sequence
+k141_5116	Neptunicella marina strain S27-2 NODE_1_length_512424_cov_194.185, whole genome shotgun sequence
+k141_5352	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10607	Desulfuromonas thiophila strain DSM 8987, whole genome shotgun sequence
+k141_3062	Vibrio ponticus strain DSM 16217 chromosome 1
+k141_10083	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6499	Streptomyces narbonensis strain JCM 4147 sequence109, whole genome shotgun sequence
+k141_10808	Andreprevotia lacus DSM 23236, whole genome shotgun sequence
+k141_11781	Polaribacter aestuariivivens strain DBTF-3 contig5, whole genome shotgun sequence
+k141_7201	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_9192	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1520	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_1710	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_4433	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4657	Desulfonispora thiosulfatigenes DSM 11270, whole genome shotgun sequence
+k141_1524	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_220	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_4659	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2629	Alpinimonas psychrophila strain DSM 23737 Ga0264296_07, whole genome shotgun sequence
+k141_7209	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4660	Simplicispira lacusdiani strain CPCC 100842 Scaffold66, whole genome shotgun sequence
+k141_6504	Bradyrhizobium campsiandrae strain INPA 384B NODE_6_length_191653_cov_93.347022, whole genome shotgun sequence
+k141_5364	Paenibacillus crassostreae strain LPB0068 PNBC_01, whole genome shotgun sequence
+k141_6655	Streptococcus chosunense strain ChDC B353 KCOM1699_1, whole genome shotgun sequence
+k141_13080	Shewanella inventionis strain CGMCC 1.15339 sequence023, whole genome shotgun sequence
+k141_11281	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_3068	Lentilactobacillus parakefiri strain KR NODE_229_length_212_cov_0.726115, whole genome shotgun sequence
+k141_9006	Pseudomonas juntendi strain PSB00022 PSB00022_c0053, whole genome shotgun sequence
+k141_4662	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12638	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_803	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_6231	Photobacterium aquae strain CGMCC 1.12159 contig0103, whole genome shotgun sequence
+k141_5979	Flavobacterium hydrophilum strain IMCC34758 NODE_7_length_225266_cov_71.682792, whole genome shotgun sequence
+k141_8360	Enterococcus lactis strain KCTC 21015 chromosome, complete genome
+k141_11940	Actinoplanes siamensis strain NBRC 109076 sequence016, whole genome shotgun sequence
+k141_13767	Streptomyces narbonensis strain JCM 4147 sequence190, whole genome shotgun sequence
+k141_2177	Leuconostoc gelidum JB7, complete sequence
+k141_3942	Marinoscillum furvescens DSM 4134 Ga0215637_101, whole genome shotgun sequence
+k141_9457	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3944	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1238	Burkholderia pseudomallei strain Mahidol-1106a chromosome 1, complete sequence
+k141_3266	Streptomyces narbonensis strain JCM 4147 sequence181, whole genome shotgun sequence
+k141_14409	Bacteroides paurosaccharolyticus JCM 15092, whole genome shotgun sequence
+k141_8102	Rhodovulum viride strain JA756 NODE_184_length_465_cov_7.20488_ID_367, whole genome shotgun sequence
+k141_3071	Amycolatopsis jejuensis strain NRRL B-24427 contig4.1, whole genome shotgun sequence
+k141_12205	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_4892	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_6510	Chryseobacterium ureilyticum strain DSM 18017, whole genome shotgun sequence
+k141_2634	Tetzosporium hominis strain VT-49 NODE_9_length_100265_cov_311.362_ID_17, whole genome shotgun sequence
+k141_1243	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1721	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2367	Flaviaesturariibacter aridisoli strain 17J68-15 scf7180000000375, whole genome shotgun sequence
+k141_3076	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8761	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10332	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_4898	Streptomyces novaecaesareae strain NRRL B-1267 contig15.1, whole genome shotgun sequence
+k141_6234	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_13509	Malaciobacter halophilus strain CCUG 53805 chromosome, complete genome
+k141_532	Sphaerospermopsis aphanizomenoides BCCUSP55 scaffold99_cov34, whole genome shotgun sequence
+k141_8373	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9865	Levilactobacillus huananensis strain 151-2B contig22, whole genome shotgun sequence
+k141_9460	Terrisporobacter mayombei strain ban5-GNNATD2-55 T79_ctg00018, whole genome shotgun sequence
+k141_13093	Paenibacillus thermoaerophilus strain DSM 26310 Scaffold21, whole genome shotgun sequence
+k141_383	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_3490	Rhizobium tibeticum isolate CCBAU85039, whole genome shotgun sequence
+k141_12643	Sneathia sanguinegens strain CCUG41628 contig_5, whole genome shotgun sequence
+k141_13094	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14032	Tenacibaculum soleae strain UCD-KL19 scaffold_0, whole genome shotgun sequence
+k141_3492	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_14033	Helicobacter bizzozeronii isolate M20, whole genome shotgun sequence
+k141_6511	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1027	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_3078	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_2636	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5786	Empedobacter brevis strain BCLYD2 chromosome, complete genome
+k141_13347	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_386	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_1921	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_11068	Streptomyces narbonensis strain JCM 4147 sequence193, whole genome shotgun sequence
+k141_6235	Streptomyces narbonensis strain JCM 4147 sequence192, whole genome shotgun sequence
+k141_1923	Anaerocolumna aminovalerica isolate src1, whole genome shotgun sequence
+k141_5373	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9867	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1730	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_11786	Clostridium perfringens ATCC 13124, complete sequence
+k141_4183	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10824	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_7232	Vibrio chemaguriensis strain Iso1 22, whole genome shotgun sequence
+k141_3729	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8770	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1736	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_9208	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_4669	Natronincola ferrireducens strain DSM 18346, whole genome shotgun sequence
+k141_5376	Zavarzinella formosa DSM 19928 Scaffold2, whole genome shotgun sequence
+k141_5586	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_824	Streptomyces xylophagus strain NRRL B-12029 contig78.1, whole genome shotgun sequence
+k141_3493	Gramella aestuarii strain BS12 scaffold_0, whole genome shotgun sequence
+k141_10831	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_13360	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10832	Amycolatopsis antarctica strain AU-G6 NODE_51_length_1094_cov_1.20062, whole genome shotgun sequence
+k141_5121	Kosmotoga olearia TBF 19.5.1, complete sequence
+k141_1930	Streptomyces novaecaesareae strain NRRL B-1267 contig96.1, whole genome shotgun sequence
+k141_7244	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_11787	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5982	Nitrosopumilus cobalaminigenes strain HCA1 chromosome, complete genome
+k141_13364	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10097	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_9216	Photobacterium aquae strain CGMCC 1.12159 contig0112, whole genome shotgun sequence
+k141_9008	Rhodovulum viride strain JA756 NODE_218_length_363_cov_5.42857_ID_435, whole genome shotgun sequence
+k141_11950	Clostridium hydrogeniformans DSM 21757 BR69DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_9463	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_9011	Corallococcus sicarius strain CA040B NODE_235_15284_cov_54.2419, whole genome shotgun sequence
+k141_2183	Tetragenococcus halophilus strain MJ4, complete genome.
+k141_13778	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10613	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_4916	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_541	Comamonas koreensis strain T50-37 chromosome, complete genome
+k141_11069	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1033	Micromonospora deserti strain 13K206 NODE_605_length_390_cov_0.775665, whole genome shotgun sequence
+k141_9707	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5788	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11789	Arenibacter latericius DSM 15913 H344DRAFT_scaffold00009.9_C, whole genome shotgun sequence
+k141_5123	Bradyrhizobium campsiandrae strain INPA 384B NODE_61_length_50904_cov_82.749503, whole genome shotgun sequence
+k141_8772	Streptomyces bikiniensis strain NRRL ISP-5580 contig26.1, whole genome shotgun sequence
+k141_14411	Staphylococcus cohnii strain GDJ7P074P s119_NDMS04698_1.clean_(paired)_contig_12, whole genome shotgun sequence
+k141_5587	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9464	Spirochaeta cellobiosiphila DSM 17781 K345DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_12823	Streptococcus periodonticum strain KCOM 2412 chromosome, complete genome
+k141_398	Streptomyces xylophagus strain NRRL B-12029 contig13.1, whole genome shotgun sequence
+k141_4199	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_10833	Streptomyces bikiniensis strain NRRL ISP-5580 contig36.1, whole genome shotgun sequence
+k141_10099	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10354	Belliella buryatensis strain 5C, whole genome shotgun sequence
+k141_12225	Marinomonas ostreistagni strain UST010306-043 Contig_1, whole genome shotgun sequence
+k141_10836	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_8775	Streptomyces novaecaesareae strain NRRL B-1267 contig101.1, whole genome shotgun sequence
+k141_9715	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_8380	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_2378	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_5133	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2187	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_5379	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11466	Arcobacter nitrofigilis DSM 7299, complete sequence
+k141_12649	Belliella pelovolcani strain DSM 46698, whole genome shotgun sequence
+k141_5588	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8584	Anaeroplasma bactoclasticum strain ATCC 27112 EI71DRAFT_scaffold00008.8, whole genome shotgun sequence
+k141_2637	Psychroflexus halocasei strain DSM 23581, whole genome shotgun sequence
+k141_12240	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_13779	Kribbella solani strain DSM 17294 Ga0415171_01, whole genome shotgun sequence
+k141_3508	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_13097	Apilactobacillus bombintestini strain BHWM-4 chromosome, complete genome
+k141_1934	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9466	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12242	Undibacterium squillarum strain KCTC 23917 sequence08, whole genome shotgun sequence
+k141_4200	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3514	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_9021	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7883	Limosilactobacillus alvi strain An810 An810_NODE_51_length_10797_cov_101.311, whole genome shotgun sequence
+k141_5798	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4204	Empedobacter falsenii strain 1681-1 chromosome, complete genome
+k141_7884	Teredinibacter purpureus strain Bs12 chromosome, complete genome
+k141_7390	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_10368	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_14212	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_7391	Amycolatopsis antarctica strain AU-G6 NODE_51_length_1094_cov_1.20062, whole genome shotgun sequence
+k141_4670	Mucilaginibacter paludis DSM 18603 chromosome, whole genome shotgun sequence
+k141_399	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9023	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10370	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12828	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11957	Helicobacter burdigaliensis strain CNRCH 2005/566H NODE_21_length_30689_cov_498.475, whole genome shotgun sequence
+k141_1941	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2640	Micrococcus flavus strain DSM 19079 Ga0104578_01, whole genome shotgun sequence
+k141_7887	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6247	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_548	Companilactobacillus futsaii strain Y97 chromosome, complete genome
+k141_1252	Burkholderia reimsis strain BE51 NODE_19_length_153615_cov_43.7626, whole genome shotgun sequence
+k141_2851	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13789	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8110	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_6667	Serratia fonticola strain DSM 4576 chromosome, complete genome
+k141_11807	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7394	Listeria goaensis strain ILCC793, whole genome shotgun sequence
+k141_3082	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_3278	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_9476	Pararhodobacter zhoushanensis strain ZQ420 Scaffold55, whole genome shotgun sequence
+k141_7396	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12245	Agitococcus lubricus strain DSM 5822 Ga0183448_110, whole genome shotgun sequence
+k141_12830	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2200	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3083	Anaerocolumna aminovalerica isolate src1, whole genome shotgun sequence
+k141_9218	Corallococcus sicarius strain CA040B NODE_235_15284_cov_54.2419, whole genome shotgun sequence
+k141_1048	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1528	Rhodovulum viride strain JA756 NODE_202_length_396_cov_4.31378_ID_403, whole genome shotgun sequence
+k141_825	Nocardia carnea strain NRRL B-1997 contig4.1, whole genome shotgun sequence
+k141_3282	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1049	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_12249	Streptomyces narbonensis strain JCM 4147 sequence081, whole genome shotgun sequence
+k141_5384	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13527	Streptococcus saliviloxodontae strain DSM 27513 Ga0454051_15, whole genome shotgun sequence
+k141_3085	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12255	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_6256	Rhodovulum viride strain JA756 NODE_264_length_277_cov_4_ID_527, whole genome shotgun sequence
+k141_6675	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_1256	Bradyrhizobium campsiandrae strain INPA 384B NODE_61_length_50904_cov_82.749503, whole genome shotgun sequence
+k141_6257	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_5392	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_14048	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_4680	Streptomyces cellulosae strain NRRL B-2687 contig1.1, whole genome shotgun sequence
+k141_419	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4684	Streptomyces novaecaesareae strain NRRL B-1267 contig146.1, whole genome shotgun sequence
+k141_11077	Muricauda lutimaris strain KCTC 22173 268, whole genome shotgun sequence
+k141_5812	Flavobacterium oncorhynchi strain CCUG 59446 43445_contig_1, whole genome shotgun sequence
+k141_2400	Flavobacterium macacae strain YIM 102600 Scaffold22, whole genome shotgun sequence
+k141_11818	Rhodovulum viride strain JA756 NODE_194_length_429_cov_3.37701_ID_387, whole genome shotgun sequence
+k141_11819	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6677	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10848	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_6271	Streptomyces narbonensis strain JCM 4147 sequence195, whole genome shotgun sequence
+k141_10638	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_6955	Kribbella monticola strain NEAU-SW521 scaffold29, whole genome shotgun sequence
+k141_8586	Rhodovulum viride strain JA756 NODE_264_length_277_cov_4_ID_527, whole genome shotgun sequence
+k141_8386	Flavobacterium soyangense strain CGMCC 1.13493 NODE_22_length_64759_cov_63.401273, whole genome shotgun sequence
+k141_11470	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11079	Rhodovulum viride strain JA756 NODE_202_length_396_cov_4.31378_ID_403, whole genome shotgun sequence
+k141_9223	Hymenobacter norwichensis DSM 15439 G536DRAFT_scaffold00002.2_C, whole genome shotgun sequence
+k141_11081	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4692	Streptomyces novaecaesareae strain NRRL B-1267 contig25.1, whole genome shotgun sequence
+k141_1741	Lichenibacterium ramalinae strain RmlP001 NODE_22_length_158605_cov_9.73481, whole genome shotgun sequence
+k141_5593	Streptomyces novaecaesareae strain NRRL B-1267 contig71.1, whole genome shotgun sequence
+k141_8780	Rhodovulum viride strain JA756 NODE_184_length_465_cov_7.20488_ID_367, whole genome shotgun sequence
+k141_9227	Streptomyces humiferus strain JCM 3037 sequence181, whole genome shotgun sequence
+k141_4214	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_3288	Streptococcus sobrinus strain 10919 chromosome, complete genome
+k141_421	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_12658	Acetilactobacillus jinshanensis strain HSLZ-75 chromosome, complete genome
+k141_8781	Vibrio pectenicida strain 99-46-Y scaffold_48, whole genome shotgun sequence
+k141_5997	Gracilibacillus kekensis strain CGMCC 1.10681, whole genome shotgun sequence
+k141_7255	Methanobrevibacter arboriphilus JCM 13429 = DSM 1125 strain DH1 MBBAR_5c, whole genome shotgun sequence
+k141_1535	Streptomyces novaecaesareae strain NRRL B-1267 contig169.1, whole genome shotgun sequence
+k141_7257	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13535	Rikenella microfusus DSM 15922 RikmiDRAFT_RMD.2, whole genome shotgun sequence
+k141_5398	Streptomyces narbonensis strain JCM 4147 sequence106, whole genome shotgun sequence
+k141_8784	Streptomyces narbonensis strain JCM 4147 sequence084, whole genome shotgun sequence
+k141_4927	Microbulbifer yueqingensis strain CGMCC 1.10658, whole genome shotgun sequence
+k141_2652	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13367	Yoonia maritima strain DSM 101533 Ga0180985_110, whole genome shotgun sequence
+k141_3522	Vulcanisaeta souniana JCM 11219 sequence15, whole genome shotgun sequence
+k141_6274	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_10639	Ehrlichia ruminantium strain Springbokfontein7 chromosome, complete genome
+k141_11477	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6685	Vicingus serpentipes strain NCIMB 15042 2, whole genome shotgun sequence
+k141_11288	Ectothiorhodospira marina strain DSM 241, whole genome shotgun sequence
+k141_11820	Shigella dysenteriae strain HNCMB 20080 chromosome, complete genome
+k141_3297	Nonomuraea zeae strain DSM 100528 NODE_422_length_8585_cov_30.9302, whole genome shotgun sequence
+k141_2401	Collimonas pratensis strain Ter291 chromosome, complete genome
+k141_2207	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13540	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3298	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5597	Sinorhizobium americanum strain CFNEI 73 chromosome, complete genome
+k141_1054	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3086	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5598	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3087	Streptomyces narbonensis strain JCM 4147 sequence084, whole genome shotgun sequence
+k141_14421	Levilactobacillus enshiensis strain HBUAS57009 Scaffold6, whole genome shotgun sequence
+k141_10857	Streptomyces catenulae strain NRRL B-2342 contig60.1, whole genome shotgun sequence
+k141_8795	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_2858	Streptomyces narbonensis strain JCM 4147 sequence211, whole genome shotgun sequence
+k141_13544	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14423	Brachyspira catarrhinii strain Z12 Contig_315, whole genome shotgun sequence
+k141_1055	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3299	Aliagarivorans taiwanensis DSM 22990 G462DRAFT_scaffold00027.27_C, whole genome shotgun sequence
+k141_1056	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5602	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13372	Spiroplasma gladiatoris strain TG-1 chromosome, complete genome
+k141_8800	Vibrio chemaguriensis strain Iso1 44, whole genome shotgun sequence
+k141_7897	Aquibacillus sediminis strain BH258 2, whole genome shotgun sequence
+k141_567	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7407	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_8393	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11298	Rhodovulum viride strain JA756 NODE_209_length_389_cov_3.60479_ID_417, whole genome shotgun sequence
+k141_10861	Streptomyces narbonensis strain JCM 4147 sequence101, whole genome shotgun sequence
+k141_430	Syntrophobacter fumaroxidans MPOB, complete sequence
+k141_13552	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_2209	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_1753	Nocardia carnea strain NRRL B-1997 contig4.1, whole genome shotgun sequence
+k141_9889	Kiloniella majae strain M146.1 Contig4, whole genome shotgun sequence
+k141_1269	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_569	Apilactobacillus apinorum strain Fhon13 Fhon13_scaffold2, whole genome shotgun sequence
+k141_11479	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2876	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1544	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6521	Lactobacillus terrae strain NIBRBAC000499792 chromosome, complete genome
+k141_6691	Streptomyces narbonensis strain JCM 4147 sequence178, whole genome shotgun sequence
+k141_1062	Hahella ganghwensis DSM 17046 F566DRAFT_scaffold00037.37_C, whole genome shotgun sequence
+k141_12835	Pokkaliibacter plantistimulans strain L1E11 contig_27, whole genome shotgun sequence
+k141_14426	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14064	Aequorivita lipolytica strain CIP107455T, whole genome shotgun sequence
+k141_11302	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_4716	Streptomyces calidiresistens strain DSM 42108 NODE_261, whole genome shotgun sequence
+k141_14427	Ornithinimicrobium humiphilum strain DSM 12362 Ga0197520_13, whole genome shotgun sequence
+k141_6522	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5399	Paenibacillus bouchesdurhonensis strain Marseille-P3071T, whole genome shotgun sequence
+k141_3092	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1560	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_1273	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_13375	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13558	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1274	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_9480	Mesorhizobium wenxiniae strain WYCCWR 10195 C267, whole genome shotgun sequence
+k141_10375	Virgibacillus alimentarius strain J18T KHU-J18_contig_31, whole genome shotgun sequence
+k141_6960	Photobacterium lutimaris strain JCM 13586 CFSAN065509_14, whole genome shotgun sequence
+k141_12260	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5622	Methanobacterium bryantii strain M.o.H. contig_31, whole genome shotgun sequence
+k141_4445	Niveispirillum cyanobacteriorum strain TH16 chromosome eg_1, complete sequence
+k141_9032	Salifodinibacter halophilus strain USBA 960 NODE_7_length_1431_cov_22.5761, whole genome shotgun sequence
+k141_9723	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_2212	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9034	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14429	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_2215	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_8394	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_831	Colwellia beringensis strain NB097-1 chromosome, complete genome
+k141_3307	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7409	Helicobacter anseris strain MIT 04-9362 H_anseris_04-9362_3_12203249.7315, whole genome shotgun sequence
+k141_3734	Geotoga petraea strain HO-Geo1 NODE_1, whole genome shotgun sequence
+k141_443	Aliiglaciecola lipolytica E3, whole genome shotgun sequence
+k141_5405	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11318	Streptomyces novaecaesareae strain NRRL B-1267 contig31.1, whole genome shotgun sequence
+k141_4937	Streptomyces bikiniensis strain NRRL ISP-5580 contig26.1, whole genome shotgun sequence
+k141_3308	Lysinibacillus meyeri strain WS4626 NODE_55_length_14488_cov_56.543278, whole genome shotgun sequence
+k141_1071	Variovorax gossypii strain DSM 100435 13, whole genome shotgun sequence
+k141_7418	Kitasatospora phosalacinea strain NRRL B-16230 contig83.1, whole genome shotgun sequence
+k141_3310	Vibrio chemaguriensis strain Iso1 16, whole genome shotgun sequence
+k141_8595	Amphritea japonica ATCC BAA-1530 chromosome, complete genome
+k141_6281	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11323	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3313	Streptomyces novaecaesareae strain NRRL B-1267 contig90.1, whole genome shotgun sequence
+k141_10103	Streptacidiphilus melanogenes strain NBRC 103184, whole genome shotgun sequence
+k141_9040	Enterococcus mediterraneensis strain Marseille-P4358, whole genome shotgun sequence
+k141_13795	Catenovulum sediminis strain WS1-A chromosome 1, complete sequence
+k141_2877	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_1757	Helicobacter winghamensis strain 2015D-0170 chromosome, complete genome
+k141_12670	Fusobacterium massiliense strain Marseille-P2749T, whole genome shotgun sequence
+k141_9043	Streptomyces xylophagus strain NRRL B-12029 contig58.1, whole genome shotgun sequence
+k141_13378	Clostridioides difficile strain BR81, complete genome.
+k141_2879	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_6701	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9046	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_3529	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13384	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_11484	Methanobacterium bryantii strain M.o.H. contig_31, whole genome shotgun sequence
+k141_3535	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6283	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_7258	Belliella aquatica strain CGMCC 1.12479 sequence03, whole genome shotgun sequence
+k141_9730	Veillonella caviae strain DSM 20738 contig_0001, whole genome shotgun sequence
+k141_2224	Clostridium saccharobutylicum DSM 13864, complete sequence
+k141_9732	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_9733	Streptomyces narbonensis strain JCM 4147 sequence100, whole genome shotgun sequence
+k141_8802	Providencia heimbachae strain NCTC12003 chromosome 1, complete sequence
+k141_10381	Streptomyces litmocidini strain JCM 4394 sequence56, whole genome shotgun sequence
+k141_9229	Symbiobacterium terraclitae strain DSM 27138 Ga0454141_13, whole genome shotgun sequence
+k141_10383	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_1759	Companilactobacillus mindensis strain NBRC 107162 sequence040, whole genome shotgun sequence
+k141_7430	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11979	Ohtaekwangia koreensis strain DSM 25262, whole genome shotgun sequence
+k141_14070	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10384	Streptomyces novaecaesareae strain NRRL B-1267 contig31.1, whole genome shotgun sequence
+k141_9482	Helicobacter bizzozeronii isolate M20, whole genome shotgun sequence
+k141_14441	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11827	Pseudoxanthomonas sangjuensis strain DSM 28345 NODE_14_length_87578_cov_15.4315, whole genome shotgun sequence
+k141_12395	Thiomicrorhabdus chilensis DSM 12352 B076DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_2405	Clostridium perfringens ATCC 13124, complete sequence
+k141_3095	Caldicellulosiruptor bescii DSM 6725, complete sequence
+k141_5417	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_11337	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8402	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7898	Chryseobacterium geocarposphaerae strain DSM 27617 Ga0180991_12, whole genome shotgun sequence
+k141_12671	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_2408	Streptomyces novaecaesareae strain NRRL B-1267 contig35.1, whole genome shotgun sequence
+k141_837	Planktotalea frisia strain SH6-1 PFRI_contig000032, whole genome shotgun sequence
+k141_10866	Clostridium colicanis DSM 13634 CLCO_contig000002, whole genome shotgun sequence
+k141_7899	Simplicispira lacusdiani strain CPCC 100842 Scaffold26, whole genome shotgun sequence
+k141_8139	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_14073	Psychroflexus tropicus DSM 15496 F598DRAFT_scaffold00002.2, whole genome shotgun sequence
+k141_12675	Streptomyces cellulosae strain NRRL B-2687 contig1.1, whole genome shotgun sequence
+k141_4940	Solitalea koreensis strain DSM 21342, whole genome shotgun sequence
+k141_840	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_590	Bradyrhizobium campsiandrae strain INPA 384B NODE_22_length_122703_cov_83.328266, whole genome shotgun sequence
+k141_6288	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_4942	Streptomyces bikiniensis strain NRRL ISP-5580 contig8.1, whole genome shotgun sequence
+k141_1276	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7905	Sulfolobus acidocaldarius strain DG1 chromosome, complete genome
+k141_9049	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_12398	Devosia elaeis strain S37 DIN_R1_(paired)_trimmed_(paired)_contig_119, whole genome shotgun sequence
+k141_9051	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1279	Streptomyces avellaneus strain NRRL B-3447 contig9.1, whole genome shotgun sequence
+k141_9056	Vibrio chemaguriensis strain Iso1 16, whole genome shotgun sequence
+k141_3100	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2236	Marinobacterium profundum strain PAMC 27536, whole genome shotgun sequence
+k141_9236	Streptomyces narbonensis strain JCM 4147 sequence053, whole genome shotgun sequence
+k141_5624	Saprospira grandis str. Lewin, complete sequence
+k141_10397	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_8805	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9239	Streptomyces narbonensis strain JCM 4147 sequence072, whole genome shotgun sequence
+k141_5138	Hyella patelloides LEGE 07179 isolate 1, whole genome shotgun sequence
+k141_1760	Gramella fulva strain SH35 chromosome, complete genome
+k141_2239	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12847	Empedobacter tilapiae strain MRS2 contig15, whole genome shotgun sequence
+k141_9240	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12848	Streptomyces albospinus strain JCM 3399 sequence034, whole genome shotgun sequence
+k141_5816	Propionivibrio dicarboxylicus strain DSM 5885, whole genome shotgun sequence
+k141_13560	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12849	Streptomyces narbonensis strain JCM 4147 sequence042, whole genome shotgun sequence
+k141_10399	Simplicispira lacusdiani strain CPCC 100842 Scaffold26, whole genome shotgun sequence
+k141_6296	Streptomyces novaecaesareae strain NRRL B-1267 contig146.1, whole genome shotgun sequence
+k141_9062	Arcticiflavibacter luteus strain SM1212 NODE_4_length_517438_cov_64.819374, whole genome shotgun sequence
+k141_8813	Acinetobacter vivianii strain CCM 8642 sequence08, whole genome shotgun sequence
+k141_1562	Lactobacillus hamsteri DSM 5661 = JCM 6256 strain DSM 5661 NODE_9, whole genome shotgun sequence
+k141_1072	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6005	Acinetobacter vivianii strain CCM 8642 sequence03, whole genome shotgun sequence
+k141_1296	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6530	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13396	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_11346	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13397	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_8151	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2251	Streptomyces novaecaesareae strain NRRL B-1267 contig146.1, whole genome shotgun sequence
+k141_1568	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_11828	Muriicola marianensis strain CGMCC 1.12606 sequence1, whole genome shotgun sequence
+k141_3314	Roseivirga pacifica strain CGMCC 1.12402, whole genome shotgun sequence
+k141_4944	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10871	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3316	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1762	Rhizobium alamii strain YR584 EX14DRAFT_scaffold00012.12_C, whole genome shotgun sequence
+k141_6538	Acidithrix ferrooxidans strain Py-F3 AXFE_contig000140, whole genome shotgun sequence
+k141_1766	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6539	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_4749	Bacillus anthracis str. 'Ames Ancestor', complete sequence
+k141_3102	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10402	Empedobacter tilapiae strain MRS2 contig4, whole genome shotgun sequence
+k141_9758	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9247	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1946	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_6009	Acinetobacter chinensis strain WCHAc010005 chromosome, complete genome
+k141_3318	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6975	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_11981	Rufibacter quisquiliarum strain DSM 29854 Ga0373294_08, whole genome shotgun sequence
+k141_14455	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_11082	Acinetobacter dispersus strain NCCP 16014 chromosome, complete genome
+k141_10658	Jannaschia pohangensis strain DSM 19073, whole genome shotgun sequence
+k141_14458	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3105	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6976	Legionella hackeliae strain ATCC 35250 chromosome I, complete sequence
+k141_12854	Corallococcus sicarius strain CA040B NODE_235_15284_cov_54.2419, whole genome shotgun sequence
+k141_2258	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3323	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5141	Vibrio chemaguriensis strain Iso1 8, whole genome shotgun sequence
+k141_6713	Bradyrhizobium campsiandrae strain INPA 384B NODE_42_length_79710_cov_85.527633, whole genome shotgun sequence
+k141_2427	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7908	Rhodovulum viride strain JA756 NODE_200_length_401_cov_3.57514_ID_399, whole genome shotgun sequence
+k141_4962	Bombilactobacillus bombi strain BI-2.5 chromosome, complete genome
+k141_10118	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_858	Streptomyces narbonensis strain JCM 4147 sequence191, whole genome shotgun sequence
+k141_9915	Granulicatella elegans ATCC 700633 supercont2.1, whole genome shotgun sequence
+k141_3330	Enterobacter roggenkampii strain DSM 16690, complete sequence.
+k141_11085	Chryseobacterium candidae strain JC507 NODE_40_length_283839_cov_32.160110, whole genome shotgun sequence
+k141_9250	Sphingobacterium mizutaii strain DSM 11724, whole genome shotgun sequence
+k141_13799	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_14224	Borreliella garinii strain 20047 chromosome, complete genome
+k141_6722	Lacrimispora amygdalina isolate src4, whole genome shotgun sequence
+k141_11360	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13100	Deinococcus daejeonensis strain JCM 16918 sequence67, whole genome shotgun sequence
+k141_2653	Rhodovulum viride strain JA756 NODE_202_length_396_cov_4.31378_ID_403, whole genome shotgun sequence
+k141_6726	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4981	Streptomyces novaecaesareae strain NRRL B-1267 contig169.1, whole genome shotgun sequence
+k141_2267	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_3546	Tetragenococcus osmophilus strain JCM 31126 chromosome, complete genome
+k141_2268	Oceanispirochaeta crateris strain K2 chromosome, complete genome
+k141_11363	Lacrimispora amygdalina isolate src4, whole genome shotgun sequence
+k141_7912	Catenovulum maritimum strain Q1 scaffold14, whole genome shotgun sequence
+k141_6306	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7265	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_8406	Planktotalea frisia strain SH6-1 PFRI_contig000032, whole genome shotgun sequence
+k141_5421	Alkalitalea saponilacus strain SC/BZ-SP2 chromosome, complete genome
+k141_11114	Peribacillus cavernae strain L5 18849_L5_1__paired__trimmed__paired__contig_58, whole genome shotgun sequence
+k141_867	Streptomyces xylophagus strain NRRL B-12029 contig11.1, whole genome shotgun sequence
+k141_3737	Corynebacterium stationis strain 622=DSM 20302 chromosome, complete genome
+k141_3740	Streptomyces bikiniensis strain NRRL ISP-5580 contig26.1, whole genome shotgun sequence
+k141_4754	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_3741	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_8152	Acinetobacter courvalinii strain CCM 8635 sequence02, whole genome shotgun sequence
+k141_10415	Methanobrevibacter smithii ATCC 35061, complete sequence
+k141_7451	Indioceanicola profundi strain SCSIO 08040 chromosome, complete genome
+k141_1594	Actinomyces oris strain FDAARGOS_1051 plasmid unnamed
+k141_7453	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_9927	Streptococcus urinalis FB127-CNA-2 supercont1.2, whole genome shotgun sequence
+k141_5427	Algoriphagus aquaeductus strain T4 Ga0180997_118, whole genome shotgun sequence
+k141_4761	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10120	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3114	Vibrio cyclitrophicus strain ECSMB14105 chromosome 2, complete sequence
+k141_14226	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3117	Lacrimispora amygdalina isolate src4, whole genome shotgun sequence
+k141_12866	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12405	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12408	Lentilactobacillus parakefiri strain KR NODE_134_length_394_cov_1.56932, whole genome shotgun sequence
+k141_7266	Streptomyces bikiniensis strain NRRL ISP-5580 contig36.1, whole genome shotgun sequence
+k141_12680	Sneathiella limimaris strain KCTC 52846 NODE_1_length_2859372_cov_51.501346, whole genome shotgun sequence
+k141_2429	Arcicella aurantiaca strain DSM 22214 LV89DRAFT_scaffold00002.2, whole genome shotgun sequence
+k141_10672	Phormidium tenue FACHB-1052 contig20, whole genome shotgun sequence
+k141_10417	Brevinema andersonii strain ATCC 43811, whole genome shotgun sequence
+k141_3336	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_2431	Bradyrhizobium campsiandrae strain INPA 384B NODE_146_length_2683_cov_93.085955, whole genome shotgun sequence
+k141_2281	Mixta theicola strain QC88-366 Contig0010, whole genome shotgun sequence
+k141_7275	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_8821	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9268	Streptomyces novaecaesareae strain NRRL B-1267 contig31.1, whole genome shotgun sequence
+k141_7280	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_12264	Levilactobacillus enshiensis strain HBUAS57009 Scaffold6, whole genome shotgun sequence
+k141_1770	Facilibium subflavum strain SYSU SYW-5 contig159, whole genome shotgun sequence
+k141_3345	Streptomyces litmocidini strain JCM 4394 sequence56, whole genome shotgun sequence
+k141_8411	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13807	Maribacter sp. 151 isolate Maribacter sp. 151, whole genome shotgun sequence
+k141_6985	Fictibacillus macauensis ZFHKF-1 Contig27, whole genome shotgun sequence
+k141_10423	Flavobacterium phycosphaerae strain MK012 unitig_0_quiver, whole genome shotgun sequence
+k141_5820	Muricauda aquimarina strain JCM11811 541, whole genome shotgun sequence
+k141_5821	Streptomyces narbonensis strain JCM 4147 sequence098, whole genome shotgun sequence
+k141_9936	Herpetosiphon llansteffanensis strain CA052B NODE_49_length_39630_cov_31_9789_ID_4238, whole genome shotgun sequence
+k141_11118	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_2435	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_6991	Streptomyces narbonensis strain JCM 4147 sequence123, whole genome shotgun sequence
+k141_9937	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_6307	Mariprofundus micogutta strain ET2, whole genome shotgun sequence
+k141_12411	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6012	Frankia alni ACN14a, complete sequence
+k141_11495	Myroides marinus strain DSM 23048, whole genome shotgun sequence
+k141_6993	Streptococcus troglodytae strain TKU 31 chromosome, complete genome
+k141_6309	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3346	Enterococcus canintestini strain 49 E49_contig_6, whole genome shotgun sequence
+k141_13809	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_3348	Streptomyces narbonensis strain JCM 4147 sequence132, whole genome shotgun sequence
+k141_4989	Bradyrhizobium campsiandrae strain INPA 384B NODE_14_length_152436_cov_88.833164, whole genome shotgun sequence
+k141_1318	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13811	Flavobacterium soli DSM 19725 G508DRAFT_scaffold00006.6_C, whole genome shotgun sequence
+k141_10682	Pseudidiomarina woesei strain DSM 27808 DSM_27808_01, whole genome shotgun sequence
+k141_13813	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12412	Bifidobacterium saguini strain DSMZ 23967 chromosome
+k141_6547	Streptomyces narbonensis strain JCM 4147 sequence081, whole genome shotgun sequence
+k141_3120	Pseudoalteromonas denitrificans DSM 6059, whole genome shotgun sequence
+k141_3121	Streptomyces ochraceiscleroticus strain NRRL ISP-5594 contig49.1, whole genome shotgun sequence
+k141_8596	Leptospira kemamanensis strain 201702454 contig_0001, whole genome shotgun sequence
+k141_11498	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1955	Planobispora takensis strain NBRC 109077 sequence036, whole genome shotgun sequence
+k141_12267	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_8420	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_8421	Streptomyces novaecaesareae strain NRRL B-1267 contig35.1, whole genome shotgun sequence
+k141_11499	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8424	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13562	Massilibacterium senegalense strain mt8, whole genome shotgun sequence
+k141_10427	Nostoc linckia z6 scaffold48.1, whole genome shotgun sequence
+k141_3350	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10124	Glycocaulis profundi strain ZYF765 scaffold_251, whole genome shotgun sequence
+k141_14228	Parabacteroides timonensis strain Marseille-P3236T, whole genome shotgun sequence
+k141_2284	Amycolatopsis jejuensis strain NRRL B-24427 contig36.1, whole genome shotgun sequence
+k141_10428	Bradyrhizobium campsiandrae strain INPA 384B NODE_65_length_45894_cov_88.436716, whole genome shotgun sequence
+k141_6553	Streptomyces novaecaesareae strain NRRL B-1267 contig146.1, whole genome shotgun sequence
+k141_8428	Shigella sonnei strain ECH+12 133-HLP106_NODE_3.ctg_1, whole genome shotgun sequence
+k141_8167	Fastidiosipila sanguinis strain CCUG 47711 chromosome, complete genome
+k141_3130	Bacillus canaveralius strain M4.6 contig_15, whole genome shotgun sequence
+k141_7458	Rhodovulum viride strain JA756 NODE_184_length_465_cov_7.20488_ID_367, whole genome shotgun sequence
+k141_13566	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_8430	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_611	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12884	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_8435	Frateuria aurantia DSM 6220, complete sequence
+k141_10689	Streptomyces novaecaesareae strain NRRL B-1267 contig35.1, whole genome shotgun sequence
+k141_8440	Lentilactobacillus parakefiri strain KR NODE_59_length_7793_cov_2.88369, whole genome shotgun sequence
+k141_11983	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4789	Streptomyces narbonensis strain JCM 4147 sequence132, whole genome shotgun sequence
+k141_6320	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9794	Streptomyces actuosus strain VRA1 NODE_120, whole genome shotgun sequence
+k141_890	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_1961	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_10694	Methanobacterium bryantii strain M.o.H. contig_31, whole genome shotgun sequence
+k141_10437	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_8604	Alcanivorax hongdengensis A-11-3 contig32, whole genome shotgun sequence
+k141_13133	Streptomyces narbonensis strain JCM 4147 sequence101, whole genome shotgun sequence
+k141_1085	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_3362	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4799	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10128	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7459	Virgibacillus litoralis strain DSM 21085 Ga0454118_01, whole genome shotgun sequence
+k141_13817	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2893	Methanobacterium bryantii strain M.o.H. contig_31, whole genome shotgun sequence
+k141_5628	Chryseobacterium aquaticum strain KCTC 12483 Contig05, whole genome shotgun sequence
+k141_12699	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2897	Streptomyces narbonensis strain JCM 4147 sequence101, whole genome shotgun sequence
+k141_891	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_8171	Oceanobacillus picturae strain DMTMMB24 contig25_size16977, whole genome shotgun sequence
+k141_2671	Brachybacterium nesterenkovii strain CIP104813, whole genome shotgun sequence
+k141_6037	Polynucleobacter victoriensis strain MWH-VicM1, whole genome shotgun sequence
+k141_2672	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_6997	Marinomonas ostreistagni strain UST010306-043 Contig_1, whole genome shotgun sequence
+k141_10129	Paraclostridium dentum strain SKVG24 NODE_112_length_606_cov_0-901701, whole genome shotgun sequence
+k141_897	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_617	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1322	Streptomyces narbonensis strain JCM 4147 sequence158, whole genome shotgun sequence
+k141_8822	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_6040	Psychroflexus tropicus DSM 15496 F598DRAFT_scaffold00002.2, whole genome shotgun sequence
+k141_10697	Acetobacterium bakii isolate Acetobacterium bakii, whole genome shotgun sequence
+k141_13134	Algicola sagamiensis DSM 14643 C505DRAFT_scaffold00008.8, whole genome shotgun sequence
+k141_2675	Capnocytophaga haemolytica strain NCTC12947 chromosome 1, complete sequence
+k141_7462	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9074	Flavipsychrobacter stenotrophus strain RB1R16 scaffold10, whole genome shotgun sequence
+k141_11366	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_1094	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3746	Tenuifilum thalassicum strain 38H-str chromosome, complete genome
+k141_9953	Kangiella sediminilitoris strain KCTC 23892 chromosome, complete genome
+k141_8605	Streptomyces narbonensis strain JCM 4147 sequence148, whole genome shotgun sequence
+k141_9954	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_9269	Flavobacterium phycosphaerae strain MK012 unitig_0_quiver, whole genome shotgun sequence
+k141_14077	Kribbella monticola strain NEAU-SW521 scaffold29, whole genome shotgun sequence
+k141_1325	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4229	Algoriphagus boseongensis strain CECT 8446 Ga0244635_102, whole genome shotgun sequence
+k141_14464	Chryseobacterium balustinum strain NCTC11212, whole genome shotgun sequence
+k141_13823	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_9955	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_9519	Bowmanella pacifica strain CGMCC 1.7086 sequence05, whole genome shotgun sequence
+k141_3555	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_2676	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7002	Glycocaulis profundi strain ZYF765 scaffold_155, whole genome shotgun sequence
+k141_7920	Glaciecola pallidula DSM 14239 = ACAM 615 strain DSM 14239 G399DRAFT_scaffold00014.14, whole genome shotgun sequence
+k141_2680	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_9529	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_10879	Pararhizobium haloflavum strain XC0140 NODE_30_length_2402_cov_10.1222, whole genome shotgun sequence
+k141_1327	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7008	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_11127	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9531	Streptomyces narbonensis strain JCM 4147 sequence088, whole genome shotgun sequence
+k141_11380	Vibrio cincinnatiensis strain NCTC12012, whole genome shotgun sequence
+k141_7010	Streptomyces narbonensis strain JCM 4147 sequence146, whole genome shotgun sequence
+k141_8176	Convivina intestini strain DSM 28795 Ga0215714_103, whole genome shotgun sequence
+k141_13412	Gordonia otitidis NBRC 100426, whole genome shotgun sequence
+k141_12885	Lutibacter oceani strain JCM30924 Scaffold1, whole genome shotgun sequence
+k141_2682	Devosia insulae DS-56 contig373, whole genome shotgun sequence
+k141_11991	Desulfosoma caldarium strain DSM 22027 Ga0244684_103, whole genome shotgun sequence
+k141_11829	Caballeronia calidae isolate LMG 29321, whole genome shotgun sequence
+k141_3364	Anabaena minutissima FACHB-250 contig25, whole genome shotgun sequence
+k141_4230	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7466	Streptomyces litmocidini strain JCM 4394 sequence60, whole genome shotgun sequence
+k141_3365	Streptomyces narbonensis strain JCM 4147 sequence132, whole genome shotgun sequence
+k141_6329	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9960	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5446	Flexivirga aerilata strain ID2601S contig3, whole genome shotgun sequence
+k141_3145	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6561	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6049	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3558	Flavobacterium weaverense strain DSM 19727 Ga0131138_103, whole genome shotgun sequence
+k141_11384	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_5153	Rhizobium tumorigenes strain 1078 NODE_6_length_286636_cov_37.6942_ID_11, whole genome shotgun sequence
+k141_7921	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8827	Bartonella elizabethae strain NCTC12898 chromosome 1, complete sequence
+k141_13825	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_12890	Streptomyces narbonensis strain JCM 4147 sequence101, whole genome shotgun sequence
+k141_4231	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_624	Acidianus infernus strain DSM 3191 contig_1, whole genome shotgun sequence
+k141_1788	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3373	Streptomyces narbonensis strain JCM 4147 sequence116, whole genome shotgun sequence
+k141_3375	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7925	Streptomyces novaecaesareae strain NRRL B-1267 contig64.1, whole genome shotgun sequence
+k141_5450	Streptomyces cellulosae strain NRRL B-2687 contig1.1, whole genome shotgun sequence
+k141_7926	Amniculibacterium aquaticum strain KYPW7 contig02, whole genome shotgun sequence
+k141_5834	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11994	Streptomyces narbonensis strain JCM 4147 sequence193, whole genome shotgun sequence
+k141_6568	Vibrio chemaguriensis strain Iso1 16, whole genome shotgun sequence
+k141_3385	Streptomyces narbonensis strain JCM 4147 sequence042, whole genome shotgun sequence
+k141_12892	Helicobacter bizzozeronii isolate M20, whole genome shotgun sequence
+k141_11129	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7473	Amycolatopsis jejuensis strain NRRL B-24427 contig36.1, whole genome shotgun sequence
+k141_909	Streptomyces narbonensis strain JCM 4147 sequence165, whole genome shotgun sequence
+k141_3146	Streptococcus urinalis FB127-CNA-2 supercont1.1, whole genome shotgun sequence
+k141_14245	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9814	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_4991	Flavobacterium jejuense strain EC11 R6_NDMS06846.contig00009, whole genome shotgun sequence
+k141_10887	Caldibacillus thermoamylovorans strain SSBM chromosome, complete genome
+k141_9961	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_1796	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13137	Stella humosa strain ATCC 43930 chromosome, complete genome
+k141_13575	Ruminiclostridium hungatei strain DSM 14427 CLHUN_contig000037, whole genome shotgun sequence
+k141_7023	Lentilactobacillus parakefiri strain KR NODE_59_length_7793_cov_2.88369, whole genome shotgun sequence
+k141_13419	Micavibrio aeruginosavorus ARL-13, complete sequence
+k141_9092	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_6585	Bradyrhizobium campsiandrae strain INPA 384B NODE_14_length_152436_cov_88.833164, whole genome shotgun sequence
+k141_6342	Glycocaulis profundi strain ZYF765 scaffold_172, whole genome shotgun sequence
+k141_9816	Rhodovulum viride strain JA756 NODE_200_length_401_cov_3.57514_ID_399, whole genome shotgun sequence
+k141_2913	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_9535	Arcanobacterium haemolyticum strain NCTC8452 chromosome 1, complete sequence
+k141_12413	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_5840	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_1976	Marinicella sediminis strain F2 contig19, whole genome shotgun sequence
+k141_13420	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_10449	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11845	Acerihabitans arboris strain SAP-6 contig2, whole genome shotgun sequence
+k141_5843	Nostoc cycadae WK-1, whole genome shotgun sequence
+k141_10891	Actinophytocola xinjiangensis strain CGMCC 4.4663 contig54, whole genome shotgun sequence
+k141_13842	Veillonella caviae strain DSM 20738 contig_0001, whole genome shotgun sequence
+k141_1978	Vibrio pectenicida strain 99-46-Y scaffold_91, whole genome shotgun sequence
+k141_5641	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_11512	Lentilactobacillus parakefiri strain KR NODE_176_length_246_cov_0.795812, whole genome shotgun sequence
+k141_8842	Chitinophaga agri strain H33E-04 chromosome, complete genome
+k141_913	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6588	Roseiconus lacunae strain JC635 NODE_16_length_66615_cov_72.692245, whole genome shotgun sequence
+k141_11515	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12414	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_8187	Legionella fallonii LLAP-10 chromosome I, complete sequence
+k141_11854	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_4248	Rhodovulum viride strain JA756 NODE_218_length_363_cov_5.42857_ID_435, whole genome shotgun sequence
+k141_13579	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3956	Hymenobacter jeollabukensis strain 1-3-3-8 contig2, whole genome shotgun sequence
+k141_1801	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6592	Planktotalea frisia strain SH6-1 PFRI_contig000032, whole genome shotgun sequence
+k141_1803	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11855	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_1331	Nocardia carnea strain NRRL B-1997 contig4.1, whole genome shotgun sequence
+k141_9276	Acidianus infernus strain DSM 3191 contig_1, whole genome shotgun sequence
+k141_13423	Pararhodobacter zhoushanensis strain ZQ420 Scaffold24, whole genome shotgun sequence
+k141_2919	Streptomyces varsoviensis strain NRRL ISP-5346 contig63.1, whole genome shotgun sequence
+k141_3957	Streptomyces narbonensis strain JCM 4147 sequence042, whole genome shotgun sequence
+k141_14480	Ottowia oryzae strain KADR8-3 chromosome, complete genome
+k141_14092	Putridiphycobacter roseus strain SM1701 SM1701_scaffold7, whole genome shotgun sequence
+k141_14095	Pararhodobacter zhoushanensis strain ZQ420 Scaffold34, whole genome shotgun sequence
+k141_8196	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_6594	Collinsella aerofaciens strain D40t1_170626_B5 NODE_47_length_7132_cov_6.01984, whole genome shotgun sequence
+k141_4463	Pseudoalteromonas profundi strain CGMCC 1.15394 sequence060, whole genome shotgun sequence
+k141_10893	Pedobacter westerhofensis strain DSM 19036, whole genome shotgun sequence
+k141_11518	Streptomyces narbonensis strain JCM 4147 sequence084, whole genome shotgun sequence
+k141_12703	Spiroplasma melliferum IPMB4A SMIPMB4A_v3Contig1J, whole genome shotgun sequence
+k141_625	Lactobacillus xujianguonis strain HT111-2 Scaffold2, whole genome shotgun sequence
+k141_9277	Urinicoccus massiliensis strain FC2, whole genome shotgun sequence
+k141_5645	Kluyvera intermedia strain N2-1 plasmid pN2-1, complete sequence
+k141_7480	Paenibacillus taihuensis strain CGMCC 1.10966 Ga0079840_124, whole genome shotgun sequence
+k141_7561	Catellatospora vulcania strain NEAU-JM1 Scaffold8_1, whole genome shotgun sequence
+k141_9542	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3399	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13148	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9547	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_12906	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_11858	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_1345	Simplicispira lacusdiani strain CPCC 100842 Scaffold26, whole genome shotgun sequence
+k141_7485	Lewinella xylanilytica strain DSM 29526 Ga0181030_102, whole genome shotgun sequence
+k141_14252	Companilactobacillus kimchiensis strain DSM 24716 Scaffold10, whole genome shotgun sequence
+k141_2924	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9282	Maribacter aquivivus strain DSM 16478, whole genome shotgun sequence
+k141_9965	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1810	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12908	Streptomyces novaecaesareae strain NRRL B-1267 contig69.1, whole genome shotgun sequence
+k141_7281	Leeia oryzae DSM 17879 F552DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+k141_5853	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14483	Streptomyces narbonensis strain JCM 4147 sequence193, whole genome shotgun sequence
+k141_7283	Paenibacillus oryzisoli strain 1ZS3-15 scaffold29, whole genome shotgun sequence
+k141_9550	Vibrio pectenicida strain 99-46-Y scaffold_48, whole genome shotgun sequence
+k141_13593	Streptomyces catenulae strain NRRL B-2342 contig53.1, whole genome shotgun sequence
+k141_5453	Poseidonibacter lekithochrous strain LMG 28652 NODE_3_length_357549_cov_102.696743, whole genome shotgun sequence
+k141_5160	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_6362	Flavobacterium indicum GPTSA100-9 = DSM 17447 chromosome I, complete sequence
+k141_10700	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13855	Algoriphagus chordae strain DSM 19830 LV85DRAFT_scaffold00017.17, whole genome shotgun sequence
+k141_9555	Vibrio chemaguriensis strain Iso1 5, whole genome shotgun sequence
+k141_13428	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_6078	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_7562	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9284	Putridiphycobacter roseus strain SM1701 SM1701_scaffold7, whole genome shotgun sequence
+k141_3400	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7563	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7288	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_6605	Aeromonas eucrenophila strain CECT 4224, whole genome shotgun sequence
+k141_8623	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_13429	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5647	Flavobacterium aquidurense strain DSM 18293 43416_contig_18, whole genome shotgun sequence
+k141_9559	Roseivirga pacifica strain CGMCC 1.12402, whole genome shotgun sequence
+k141_4479	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7025	Muricauda olearia strain Th120 scaffold5, whole genome shotgun sequence
+k141_1098	Bacteroides paurosaccharolyticus JCM 15092, whole genome shotgun sequence
+k141_4261	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11529	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_14100	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4481	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10707	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7567	Streptomyces litmocidini strain JCM 4394 sequence60, whole genome shotgun sequence
+k141_5180	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_6080	Mycoplasma bovis CQ-W70 chromosome, complete genome
+k141_2930	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10710	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14256	Lacrimispora amygdalina isolate src4, whole genome shotgun sequence
+k141_8631	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_1820	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12708	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_636	Rhodovulum viride strain JA756 NODE_200_length_401_cov_3.57514_ID_399, whole genome shotgun sequence
+k141_7033	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_2931	Streptomyces bikiniensis strain NRRL ISP-5580 contig36.1, whole genome shotgun sequence
+k141_12711	Bizionia psychrotolerans strain PB-M7 PB-M7_contig_3, whole genome shotgun sequence
+k141_12011	Sulfurospirillum arsenophilum NBRC 109478, whole genome shotgun sequence
+k141_1350	Micromonospora deserti strain 13K206 NODE_605_length_390_cov_0.775665, whole genome shotgun sequence
+k141_3963	Staphylococcus pasteuri SP1, complete sequence
+k141_11541	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_12712	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9295	Chryseobacterium flavum strain KCTC 12877 CONTIG07, whole genome shotgun sequence
+k141_14493	Flavobacterium pectinovorum strain DSM 6368, whole genome shotgun sequence
+k141_8639	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_12016	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14497	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_3771	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_2445	Glycocaulis profundi strain ZYF765 scaffold_172, whole genome shotgun sequence
+k141_13866	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10140	Paraclostridium dentum strain SKVG24 NODE_74_length_899_cov_1-682482, whole genome shotgun sequence
+k141_8217	Sphingobacterium puteale strain M05W1-28 NODE_1_length_841035_cov_421.627534, whole genome shotgun sequence
+k141_14498	Mycoplasma mycoides subsp. capri str. GM12 chromosome clone deltatypeIIIres, complete genome
+k141_10463	Lentilactobacillus parakefiri strain KR NODE_132_length_409_cov_0.966102, whole genome shotgun sequence
+k141_4264	Vibrio penaeicida strain CAIM 285 CAIM285T_21, whole genome shotgun sequence
+k141_10908	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3424	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1355	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_1825	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5866	Fremyella diplosiphon NIES-3275 DNA, nearly complete genome
+k141_11557	Bradyrhizobium campsiandrae strain INPA 384B NODE_162_length_764_cov_126.027656, whole genome shotgun sequence
+k141_3971	Streptomyces xylophagus strain NRRL B-12029 contig9.1, whole genome shotgun sequence
+k141_11558	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_3774	Pediococcus ethanolidurans strain DSM 22301 Scaffold3, whole genome shotgun sequence
+k141_12270	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_12271	Streptomyces novaecaesareae strain NRRL B-1267 contig66.1, whole genome shotgun sequence
+k141_9572	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_9574	Streptomyces novaecaesareae strain NRRL B-1267 contig47.1, whole genome shotgun sequence
+k141_9575	Methanobacterium bryantii strain M.o.H. contig_31, whole genome shotgun sequence
+k141_9301	Maribacter polysiphoniae strain DSM 23514 LX92DRAFT_scaffold00005.5, whole genome shotgun sequence
+k141_2937	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_14500	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14263	Halalkalirubrum salinum strain N1521 NODE_18_length_21865_cov_106.311043, whole genome shotgun sequence
+k141_4486	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_1829	Streptomyces novaecaesareae strain NRRL B-1267 contig1.1, whole genome shotgun sequence
+k141_10465	Caloramator australicus RC3, whole genome shotgun sequence
+k141_11389	Skermanella mucosa strain KEMB 2255-438 31, whole genome shotgun sequence
+k141_12428	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10722	Litorilituus sediminis strain JCM 17549 chromosome, complete genome
+k141_13431	Empedobacter stercoris strain ES183 chromosome, complete genome
+k141_9579	Alteromonas naphthalenivorans strain SN2, complete genome.
+k141_1985	Ancylomarina subtilis strain DSM 28825 Ga0310529_101, whole genome shotgun sequence
+k141_6387	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4267	Flavobacterium ummariense strain DS-12, whole genome shotgun sequence
+k141_7490	Defluviitalea raffinosedens strain 249c-K6 seq1, whole genome shotgun sequence
+k141_7299	Streptococcus henryi strain A-4, whole genome shotgun sequence
+k141_12919	Actinophytocola xinjiangensis strain CGMCC 4.4663 contig54, whole genome shotgun sequence
+k141_7928	Rhodovulum viride strain JA756 NODE_184_length_465_cov_7.20488_ID_367, whole genome shotgun sequence
+k141_5889	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4275	Streptomyces narbonensis strain JCM 4147 sequence190, whole genome shotgun sequence
+k141_13603	Lutibacter oceani strain JCM30924 Scaffold6, whole genome shotgun sequence
+k141_8851	Maribacter dokdonensis strain MAR_2009_60 chromosome I
+k141_12020	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_9304	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3428	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_6089	Mangrovibacterium marinum strain DSM 28823 Ga0183469_108, whole genome shotgun sequence
+k141_8644	Streptomyces hainanensis strain DSM 41900 NODE_480_length_5668_cov_82.3472, whole genome shotgun sequence
+k141_13606	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_4277	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_11562	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3154	Agrobacterium salinitolerans strain YIC 5082 scaffold6, whole genome shotgun sequence
+k141_2287	Lacunisphaera limnophila strain IG16b chromosome, complete genome
+k141_10480	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_2448	Alteribacillus bidgolensis strain DSM 25260 Scaffold1, whole genome shotgun sequence
+k141_1368	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_10148	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1996	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5478	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5184	Halomonas nigrificans strain MBT G8648 NODE_14_length_121738_cov_78.4507, whole genome shotgun sequence
+k141_1997	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_9113	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_2685	Caloramator quimbayensis strain USBA 833, whole genome shotgun sequence
+k141_2289	Streptomyces xylophagus strain NRRL B-12029 contig94.1, whole genome shotgun sequence
+k141_3974	Acinetobacter dispersus strain NCCP 16014 chromosome, complete genome
+k141_13609	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_9117	Streptomyces litmocidini strain JCM 4394 sequence53, whole genome shotgun sequence
+k141_13437	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6392	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13156	Prevotella scopos JCM 17725 strain W2052 chromosome 1
+k141_9309	Deinococcus ruber strain JCM 31311 sequence002, whole genome shotgun sequence
+k141_3562	Kribbella sindirgiensis strain DSM 27082 NODE_10_length_288356_cov_11.4569_ID_4322, whole genome shotgun sequence
+k141_6396	Rhodopirellula pilleata strain Pla100 Pla100_contig00002, whole genome shotgun sequence
+k141_1111	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11563	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12284	Streptomyces novaecaesareae strain NRRL B-1267 contig27.1, whole genome shotgun sequence
+k141_662	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_1120	Streptomyces narbonensis strain JCM 4147 sequence106, whole genome shotgun sequence
+k141_12287	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_8870	Streptomyces narbonensis strain JCM 4147 sequence109, whole genome shotgun sequence
+k141_2463	Streptomyces catenulae strain NRRL B-2342 contig54.1, whole genome shotgun sequence
+k141_7040	Rhodovulum viride strain JA756 NODE_200_length_401_cov_3.57514_ID_399, whole genome shotgun sequence
+k141_10909	Poseidonibacter lekithochrous strain LMG 28652 NODE_3_length_357549_cov_102.696743, whole genome shotgun sequence
+k141_14515	Algoriphagus zhangzhouensis strain CGMCC 1.11027 Ga0079843_101, whole genome shotgun sequence
+k141_7506	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14517	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3571	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_11393	Streptomyces bikiniensis strain NRRL ISP-5580 contig36.1, whole genome shotgun sequence
+k141_12297	Halococcus sediminicola strain CBA1101, whole genome shotgun sequence
+k141_9314	Pseudomonas humi strain CCA1, whole genome shotgun sequence
+k141_2696	Streptomyces actuosus strain VRA1 NODE_18, whole genome shotgun sequence
+k141_6612	Spiroplasma culicicola AES-1 chromosome, complete genome
+k141_9315	Wocania ichthyoenteri Th78 Scaffold1, whole genome shotgun sequence
+k141_7301	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_6620	Streptomyces narbonensis strain JCM 4147 sequence116, whole genome shotgun sequence
+k141_4487	Thiohalomonas denitrificans strain HLD2, whole genome shotgun sequence
+k141_11394	Hydrogenophilus thermoluteolus strain TH-1 chromosome, complete genome
+k141_5909	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_10910	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_12027	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_2472	Amycolatopsis jejuensis strain NRRL B-24427 contig41.1, whole genome shotgun sequence
+k141_6624	Streptomyces humiferus strain JCM 3037 sequence141, whole genome shotgun sequence
+k141_7309	Breznakibacter xylanolyticus strain DSM 6779 LX69DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_12301	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_4491	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3806	Aerococcus urinaeequi strain USDA-ARS-USMARC-56713 chromosome, complete genome
+k141_11399	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14522	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_667	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3162	Marinomonas polaris DSM 16579, whole genome shotgun sequence
+k141_12717	Sediminitomix flava strain DSM 28229 Ga0131173_105, whole genome shotgun sequence
+k141_9328	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_8645	Actinokineospora bangkokensis strain 44EHW Scaffold5, whole genome shotgun sequence
+k141_12028	Stenotrophomonas koreensis strain DSM 17805 contig_12, whole genome shotgun sequence
+k141_1998	Adhaeribacter arboris strain HMF7605 contig00001, whole genome shotgun sequence
+k141_6104	Gramella fulva strain SH35 chromosome, complete genome
+k141_11569	Nostoc paludosum FACHB-159 contig27, whole genome shotgun sequence
+k141_12718	Morococcus cerebrosus strain CIP 81.93 MCC93_157, whole genome shotgun sequence
+k141_672	Chitiniphilus eburneus strain HX-2-15 HX-2-15_scaffold24, whole genome shotgun sequence
+k141_9976	Sphingobacterium spiritivorum strain NCTC11386, whole genome shotgun sequence
+k141_674	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_9981	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_14525	Streptomyces narbonensis strain JCM 4147 sequence060, whole genome shotgun sequence
+k141_1999	Streptomyces narbonensis strain JCM 4147 sequence063, whole genome shotgun sequence
+k141_5665	Streptomyces narbonensis strain JCM 4147 sequence146, whole genome shotgun sequence
+k141_2939	Eubacterium barkeri strain VPI 5359, whole genome shotgun sequence
+k141_2701	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7595	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_11572	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13445	Flavobacterium lotistagni strain CYK-4 contig00015, whole genome shotgun sequence
+k141_10917	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_6107	Vaginella massiliensis strain Marseille-P2517T, whole genome shotgun sequence
+k141_2708	Herpetosiphon llansteffanensis strain CA052B NODE_108_length_5736_cov_41_9114_ID_4356, whole genome shotgun sequence
+k141_5910	Gelidibacter sediminis strain DSM 28135 Ga0170425_101, whole genome shotgun sequence
+k141_11576	Pseudomonas laurentiana strain JCM 32154 sequence076, whole genome shotgun sequence
+k141_3164	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14103	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_2473	Nocardia suismassiliense strain S-137, whole genome shotgun sequence
+k141_8647	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3999	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_9336	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7513	Acinetobacter piscicola strain LW15 contig28, whole genome shotgun sequence
+k141_12308	Actinoplanes humidus strain NBRC 14915 sequence097, whole genome shotgun sequence
+k141_7056	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_14268	Streptococcus cristatus ATCC 51100 strain NCTC 12479 chromosome 1, complete sequence
+k141_2941	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8649	Halobacillus faecis strain NBRC 103569 sequence02, whole genome shotgun sequence
+k141_2474	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_3807	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_12430	Prevotella copri DSM 18205 Scfld1, whole genome shotgun sequence
+k141_2008	Halococcus sediminicola strain CBA1101, whole genome shotgun sequence
+k141_3429	Vicingus serpentipes strain NCIMB 15042 1, whole genome shotgun sequence
+k141_2480	Bradyrhizobium campsiandrae strain INPA 384B NODE_124_length_12378_cov_87.217218, whole genome shotgun sequence
+k141_5187	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_9342	Haloferax sulfurifontis strain CCM 7217 sequence16, whole genome shotgun sequence
+k141_13452	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6738	Rhodovulum viride strain JA756 NODE_255_length_295_cov_7.87083_ID_509, whole genome shotgun sequence
+k141_10164	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_12032	Solirubrobacter soli DSM 22325 G569DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+k141_3430	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13882	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6740	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6743	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4994	Lewinella litorea strain HSMS-39 contig2, whole genome shotgun sequence
+k141_11590	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_12041	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13625	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_5188	Nitrosomonas eutropha C91, complete sequence
+k141_1130	Shewanella corallii strain A687 scaffold_1, whole genome shotgun sequence
+k141_8654	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12432	Nitrosopumilus cobalaminigenes strain HCA1 chromosome, complete genome
+k141_680	Streptomyces novaecaesareae strain NRRL B-1267 contig130.1, whole genome shotgun sequence
+k141_12312	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4279	Streptomyces niger strain NRRL B-3857 contig32.1, whole genome shotgun sequence
+k141_2486	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4281	Streptomyces narbonensis strain JCM 4147 sequence190, whole genome shotgun sequence
+k141_6745	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_4009	Halarcobacter arenosus strain CAU 1517 contig1, whole genome shotgun sequence
+k141_14273	Bacillus aciditolerans strain YN-1 YN_scaffold645, whole genome shotgun sequence
+k141_2488	Paenibacillus sambharensis strain SMB1 375, whole genome shotgun sequence
+k141_9347	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3590	Kaistella jeonii strain NCTC13459 chromosome 1, complete sequence
+k141_10494	Streptacidiphilus oryzae TH49 BS73DRAFT_unitig_14_quiver.5_C, whole genome shotgun sequence
+k141_4284	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5002	Pseudomonas salomonii strain IPO3765 IPO_3765_S40_L003_contig_21, whole genome shotgun sequence
+k141_5913	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8879	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_12050	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14110	Haloimpatiens lingqiaonensis strain P8956, whole genome shotgun sequence
+k141_3808	Shewanella corallii strain A687 scaffold_1, whole genome shotgun sequence
+k141_12724	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_11408	Paraclostridium dentum strain SKVG24 NODE_11_length_106338_cov_59-678339, whole genome shotgun sequence
+k141_8656	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7514	Streptomyces narbonensis strain JCM 4147 sequence191, whole genome shotgun sequence
+k141_3812	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_9359	Streptosporangium amethystogenes strain NRRL B-2639 contig163.1, whole genome shotgun sequence
+k141_11410	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3819	Streptomyces narbonensis strain JCM 4147 sequence081, whole genome shotgun sequence
+k141_4285	Streptomyces novaecaesareae strain NRRL B-1267 contig1.1, whole genome shotgun sequence
+k141_5006	Halobacillus andaensis strain CGMCC 1.12153 sequence01, whole genome shotgun sequence
+k141_11606	Methanothermus fervidus DSM 2088, complete sequence
+k141_3594	Fusobacterium varium ATCC 27725 chromosome, complete genome
+k141_2496	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_14528	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8658	Flavobacterium palustre strain CGMCC 1.12811 sequence02, whole genome shotgun sequence
+k141_5924	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3597	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5190	Acanthopleuribacter pedis strain KCTC 12899 Scaffold1_1, whole genome shotgun sequence
+k141_2498	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_2026	Lutibacter agarilyticus strain DSM 29150, whole genome shotgun sequence
+k141_6748	Bradyrhizobium campsiandrae strain INPA 384B NODE_19_length_144826_cov_79.176727, whole genome shotgun sequence
+k141_12437	Sphingobacterium daejeonense strain NCTC13534 chromosome 1
+k141_2499	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8674	Flavobacterium undicola strain BBQ-18 conting3, whole genome shotgun sequence
+k141_13633	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_11609	Acinetobacter qingfengensis strain CCUG 69710T contig_0000005, whole genome shotgun sequence
+k141_7518	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_4011	Polaribacter vadi strain LPB0003 chromosome, complete genome
+k141_11611	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9988	Limosilactobacillus alvi strain An810 An810_NODE_51_length_10797_cov_101.311, whole genome shotgun sequence
+k141_8882	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12443	Lacrimispora amygdalina isolate src4, whole genome shotgun sequence
+k141_5671	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_3828	Arthrobacter bussei strain KR32 NODE_1_length_1728676_cov_31.084558, whole genome shotgun sequence
+k141_2734	Streptomyces novaecaesareae strain NRRL B-1267 contig147.1, whole genome shotgun sequence
+k141_3173	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_7936	Colwellia chukchiensis strain CGMCC 1.9127 scaffold9, whole genome shotgun sequence
+k141_14280	Photobacterium alginatilyticum strain P03D4 scaffold_12, whole genome shotgun sequence
+k141_7063	Bartonella senegalensis OS02, whole genome shotgun sequence
+k141_2501	Streptomyces novaecaesareae strain NRRL B-1267 contig47.1, whole genome shotgun sequence
+k141_9990	Streptomyces narbonensis strain JCM 4147 sequence130, whole genome shotgun sequence
+k141_4016	Virgibacillus senegalensis strain SK-1, whole genome shotgun sequence
+k141_14282	Haloferax sulfurifontis strain CCM 7217 sequence17, whole genome shotgun sequence
+k141_2504	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4289	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2950	Levilactobacillus suantsaiihabitans strain BCRC 81129 Scaffold4_1, whole genome shotgun sequence
+k141_12938	Weissella cryptocerci strain 26KH-42 chromosome, complete genome
+k141_5193	Alteromonas abrolhosensis strain PEL67E scaffold8.1, whole genome shotgun sequence
+k141_12731	Leuconostoc pseudomesenteroides strain FDAARGOS_1003 chromosome, complete genome
+k141_2507	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_2742	Nocardia nova strain MDA5529 NODE_10_length_238624_cov_20.7736, whole genome shotgun sequence
+k141_11614	Staphylococcus rostri strain DSM 21968 ad82c537-9ccb-4044-81e6-1ba5860873f3_c88, whole genome shotgun sequence
+k141_3174	Streptomyces bikiniensis strain NRRL ISP-5580 contig26.1, whole genome shotgun sequence
+k141_2747	Limosilactobacillus gorillae strain KZ01(T)=JCM19575(T)=DSM28356(T), whole genome shotgun sequence
+k141_13168	Chitinophaga niastensis strain DSM 24859 Ga0180968_102, whole genome shotgun sequence
+k141_3179	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_3840	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_3182	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_5672	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12745	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14123	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6116	Gimesia alba strain Pan241w chromosome
+k141_7064	Prevotella fusca JCM 17724 strain W1435 chromosome 1, complete sequence
+k141_7065	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_2963	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12060	Polaribacter reichenbachii strain 6Alg 8T chromosome, complete genome
+k141_12066	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_10920	Lentilactobacillus parakefiri strain KR NODE_59_length_7793_cov_2.88369, whole genome shotgun sequence
+k141_2509	Pseudonocardia hydrocarbonoxydans strain NBRC 14498 sequence01, whole genome shotgun sequence
+k141_12069	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_9991	Kurthia sibirica strain NBRC 101530 sequence041, whole genome shotgun sequence
+k141_3598	Streptomyces omiyaensis strain JCM 4806 sequence013, whole genome shotgun sequence
+k141_6756	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4511	Aeromonas sanarellii strain LMG 24682, whole genome shotgun sequence
+k141_2968	Streptomyces niger strain NRRL B-3857 contig7.1, whole genome shotgun sequence
+k141_12314	Desnuesiella massiliensis strain mt10, whole genome shotgun sequence
+k141_4024	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12077	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4026	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_2969	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14130	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12080	Pantoea endophytica strain 596 PZBJ8, whole genome shotgun sequence
+k141_12454	Rufibacter tibetensis strain 1351 chromosome, complete genome
+k141_11866	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_12082	Streptomyces avellaneus strain NRRL B-3447 contig89.1, whole genome shotgun sequence
+k141_12319	Rhodovulum viride strain JA756 NODE_202_length_396_cov_4.31378_ID_403, whole genome shotgun sequence
+k141_10930	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_12455	Streptomyces narbonensis strain JCM 4147 sequence146, whole genome shotgun sequence
+k141_2973	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_4520	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13462	Halobacillus aidingensis strain CGMCC 1.3703, whole genome shotgun sequence
+k141_2030	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12749	Streptomyces novaecaesareae strain NRRL B-1267 contig184.1, whole genome shotgun sequence
+k141_7603	Edwardsiella piscicida strain LADL99-462 Edwardsiella-piscicida-LADL99-462-contig-6, whole genome shotgun sequence
+k141_14532	Micromonospora deserti strain 13K206 NODE_597_length_400_cov_0.798535, whole genome shotgun sequence
+k141_7533	Bacteroides ndongoniae strain Marseille-P3108T, whole genome shotgun sequence
+k141_6121	Streptomyces narbonensis strain JCM 4147 sequence125, whole genome shotgun sequence
+k141_13176	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14285	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_11150	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_5927	Bacillus cytotoxicus strain CH_13 chromosome, complete genome
+k141_2975	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3612	Nostoc piscinale CENA21, partial genome.
+k141_7066	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5932	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_3191	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3615	Streptomyces xylophagus strain NRRL B-12029 contig11.1, whole genome shotgun sequence
+k141_3196	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_682	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_10165	Pseudomonas laurentiana strain JCM 32154 sequence048, whole genome shotgun sequence
+k141_8885	Veillonella tobetsuensis strain Y6 Contig_12_len_551853, whole genome shotgun sequence
+k141_10167	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_8892	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_5937	Flavobacterium cucumis strain DSM 18830, whole genome shotgun sequence
+k141_7535	Streptococcus oralis ATCC 35037 strain NCTC 11427 chromosome 1, complete sequence
+k141_12767	Legionella massiliensis strain LegA, whole genome shotgun sequence
+k141_12769	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_12470	Streptomyces novaecaesareae strain NRRL B-1267 contig142.1, whole genome shotgun sequence
+k141_7072	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_12087	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3845	Streptomyces narbonensis strain JCM 4147 sequence207, whole genome shotgun sequence
+k141_5204	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_2033	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_13638	Vogesella indigofera strain DSM 3303 Ga0215675_110, whole genome shotgun sequence
+k141_7073	Coprobacter fastidiosus NSB1 Ga0131254_113, whole genome shotgun sequence
+k141_13884	Oricola thermophila strain MEBiC13590 chromosome, complete genome
+k141_6138	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3620	Acinetobacter wuhouensis strain WCHAW060049, whole genome shotgun sequence
+k141_4029	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_12474	Maribacter thermophilus strain HT7-2 Scaffold1, whole genome shotgun sequence
+k141_12776	Bizionia gelidisalsuginis strain IC164 NODE_6_length_187792_cov_200.528, whole genome shotgun sequence
+k141_11159	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13177	Lentilactobacillus parakefiri strain KR NODE_186_length_238_cov_0.830601, whole genome shotgun sequence
+k141_3623	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_13645	Dyadobacter psychrotolerans strain AR-3-6 contig8, whole genome shotgun sequence
+k141_11622	Motilimonas pumilua strain PLHSC7-2 contig14, whole genome shotgun sequence
+k141_13648	Dictyobacter kobayashii strain Uno11 sequence1, whole genome shotgun sequence
+k141_11162	Aerococcus suis strain DSM 21500, whole genome shotgun sequence
+k141_10001	Staphylococcus kloosii strain 14_4_1_W 14_4_1_W_2, whole genome shotgun sequence
+k141_5221	Virgibacillus profundi strain P3-H5 NODE_6_length_257952_cov_113.801, whole genome shotgun sequence
+k141_4306	Listeria riparia FSL S10-1204 c30, whole genome shotgun sequence
+k141_3859	Allofrancisella inopinata strain SYSU YG23 chromosome, complete genome
+k141_4307	Streptomyces novaecaesareae strain NRRL B-1267 contig1.1, whole genome shotgun sequence
+k141_12951	Hymenobacter busanensis strain MA3 NODE_2_length_783187_cov_190.351356, whole genome shotgun sequence
+k141_3624	Lactobacillus selangorensis strain DSM 13344 Scaffold1, whole genome shotgun sequence
+k141_3870	Actinobacillus suis ATCC 33415 chromosome, complete genome
+k141_3874	Moraxella atlantae strain NCTC11091, whole genome shotgun sequence
+k141_6150	Cycloclasticus pugetii PS-1 CycpuDRAFT_chromosome1.1_C, whole genome shotgun sequence
+k141_3877	Streptomyces novaecaesareae strain NRRL B-1267 contig1.1, whole genome shotgun sequence
+k141_12953	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_4542	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_12778	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_2048	Amycolatopsis jejuensis strain NRRL B-24427 contig36.1, whole genome shotgun sequence
+k141_4313	Myroides profundi strain D25 chromosome, complete genome
+k141_4047	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6764	Prevotella mizrahii strain LKV-178-WT-2A seq26, whole genome shotgun sequence
+k141_3197	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_14287	Algoriphagus zhangzhouensis strain CGMCC 1.11027 Ga0079843_101, whole genome shotgun sequence
+k141_11173	Succinimonas amylolytica DSM 2873 F557DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_13193	Rhodovulum viride strain JA756 NODE_223_length_353_cov_3.25168_ID_445, whole genome shotgun sequence
+k141_10941	Streptomyces narbonensis strain JCM 4147 sequence100, whole genome shotgun sequence
+k141_7536	Streptomyces narbonensis strain JCM 4147 sequence148, whole genome shotgun sequence
+k141_12956	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12495	Streptomyces fulvoviolaceus strain NRRL B-2870 contig13.1, whole genome shotgun sequence
+k141_12962	Roseospira marina strain DSM 15113 NODE_6_length_243301_cov_37.5019, whole genome shotgun sequence
+k141_14535	Helicobacter bizzozeronii isolate M20, whole genome shotgun sequence
+k141_2060	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_10008	Glycocaulis profundi strain ZYF765 scaffold_570, whole genome shotgun sequence
+k141_10177	Micromonospora deserti strain 13K206 NODE_597_length_400_cov_0.798535, whole genome shotgun sequence
+k141_5701	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4549	Photobacterium aquae strain CGMCC 1.12159 contig0112, whole genome shotgun sequence
+k141_12507	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_14541	Bacillus sporothermodurans strain L1_157 NODE_172_length_5394_cov_39.9279, whole genome shotgun sequence
+k141_13651	Dysgonomonas massiliensis strain Marseille-P4356, whole genome shotgun sequence
+k141_12512	Streptomyces narbonensis strain JCM 4147 sequence190, whole genome shotgun sequence
+k141_10182	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_3625	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4325	Haloferax sulfurifontis strain CCM 7217 sequence16, whole genome shotgun sequence
+k141_12966	Streptococcus lactarius strain CCUG 66490 66490_contig_0000015, whole genome shotgun sequence
+k141_3879	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3631	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_3889	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13194	Phreatobacter stygius strain KCTC 52518 chromosome, complete genome
+k141_7606	Salipiger marinus strain DSM 26424, whole genome shotgun sequence
+k141_4335	Streptomyces novaecaesareae strain NRRL B-1267 contig1.1, whole genome shotgun sequence
+k141_7950	Limnohabitans parvus II-B4 LimC-II-B4-C2, whole genome shotgun sequence
+k141_7951	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_7952	Streptomyces novaecaesareae strain NRRL B-1267 contig127.1, whole genome shotgun sequence
+k141_12976	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_12982	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_12983	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_13668	Rhodovulum viride strain JA756 NODE_264_length_277_cov_4_ID_527, whole genome shotgun sequence
+k141_7607	Streptomyces narbonensis strain JCM 4147 sequence207, whole genome shotgun sequence
+k141_7609	Halococcus sediminicola strain CBA1101, whole genome shotgun sequence
+k141_12984	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_8905	Hydrogenophaga flava NBRC 102514, whole genome shotgun sequence
+k141_4340	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_13673	Streptomyces narbonensis strain JCM 4147 sequence132, whole genome shotgun sequence
+k141_4563	Streptomyces narbonensis strain JCM 4147 sequence072, whole genome shotgun sequence
+k141_10188	Kocuria sediminis strain JCM 17929 Scaffold31, whole genome shotgun sequence
+k141_3200	Glycocaulis alkaliphilus strain 6B-8, complete genome.
+k141_5237	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6771	Teredinibacter purpureus strain Bs12 chromosome, complete genome
+k141_5712	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13887	Sphingorhabdus contaminans strain KCTC32445 NODE_1_length_1691790_cov_141.238532, whole genome shotgun sequence
+k141_10189	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10191	Streptomyces novaecaesareae strain NRRL B-1267 contig137.1, whole genome shotgun sequence
+k141_12990	Streptomyces narbonensis strain JCM 4147 sequence178, whole genome shotgun sequence
+k141_13889	Prevotella albensis DSM 11370 = JCM 12258 strain DSM 11370 K333DRAFT_scaffold00003.3, whole genome shotgun sequence
+k141_13892	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13896	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7955	Lactobacillus aquaticus DSM 21051 NODE_6, whole genome shotgun sequence
+k141_4056	Aerococcus urinaeequi strain USDA-ARS-USMARC-56713 chromosome, complete genome
+k141_4059	Erwinia mediterraneensis strain Marseille-P5165, whole genome shotgun sequence
+k141_5240	Flavipsychrobacter stenotrophus strain RB1R16 scaffold2, whole genome shotgun sequence
+k141_3652	Vibrio hyugaensis strain 270813R scaffold71_cov90, whole genome shotgun sequence
+k141_4573	Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence
+k141_4061	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10026	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_7961	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_13001	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_13215	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13899	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_12527	Limosilactobacillus portuensis strain c11Ua_112_M NODE_135_length_289_cov_0.714286, whole genome shotgun sequence
+k141_7615	Algoriphagus litoralis strain DSL-12 contig3, whole genome shotgun sequence
+k141_6169	Methanoregula formicica SMSP, complete sequence
+k141_14294	Gilliamella mensalis isolate 2, whole genome shotgun sequence
+k141_5241	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13216	Marispirochaeta aestuarii strain JC444 Contig57, whole genome shotgun sequence
+k141_5243	Streptomyces narbonensis strain JCM 4147 sequence081, whole genome shotgun sequence
+k141_14297	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13222	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13679	Macrococcus epidermidis strain 01/688 NODE_4_length_204215_cov_163.74698, whole genome shotgun sequence
+k141_13006	Rhodovulum viride strain JA756 NODE_209_length_389_cov_3.60479_ID_417, whole genome shotgun sequence
+k141_12531	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_11178	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7966	Succinivibrio dextrinosolvens strain ASCUSBF53 chromosome 1, complete sequence
+k141_7968	Roseomonas oryzae strain KCTC 42542 Scaffold125, whole genome shotgun sequence
+k141_5244	Corallococcus sicarius strain CA040B NODE_235_15284_cov_54.2419, whole genome shotgun sequence
+k141_4063	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7970	Marinicella rhabdoformis strain 3539 scaffold3_size615996, whole genome shotgun sequence
+k141_4066	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14547	Saccharopolyspora lacisalsi strain DSM 45975 Ga0197584_02, whole genome shotgun sequence
+k141_10199	Pseudoalteromonas fuliginea strain PS2 558, whole genome shotgun sequence
+k141_4067	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7975	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13225	Chitinophaga ginsengisoli strain DSM 18107 Ga0180988_106, whole genome shotgun sequence
+k141_10209	Macrococcus brunensis strain CCM4811 NODE_8_length_99997_cov_48.527, whole genome shotgun sequence
+k141_12533	Rhodovulum viride strain JA756 NODE_169_length_551_cov_7.33065_ID_337, whole genome shotgun sequence
+k141_12534	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13007	Pedobacter namyangjuensis strain 5G38 contig1, whole genome shotgun sequence
+k141_12535	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_10034	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_5249	Streptomyces narbonensis strain JCM 4147 sequence084, whole genome shotgun sequence
+k141_4074	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_13914	Sharpea azabuensis strain KH1P5, whole genome shotgun sequence
+k141_7977	Chitinophaga polysaccharea strain 1209 Ga0365422_106, whole genome shotgun sequence
+k141_12537	Enterococcus lactis strain KCTC 21015 chromosome, complete genome
+k141_12539	Barnesiella intestinihominis YIT 11860 supercont1.2, whole genome shotgun sequence
+k141_13233	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12541	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_12542	Vibrio chemaguriensis strain Iso1 22, whole genome shotgun sequence
+k141_7985	Lebetimonas natsushimae strain HS1857, whole genome shotgun sequence
+k141_7632	Tepidibacter thalassicus DSM 15285, whole genome shotgun sequence
+k141_7989	Streptomyces narbonensis strain JCM 4147 sequence153, whole genome shotgun sequence
+k141_4077	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10040	Micromonospora arida strain LB32 NODE_203_length_11037_cov_8.79423_ID_405, whole genome shotgun sequence
+k141_14553	Pseudomonas saxonica strain DSM 108989 1_1547637_26.6009, whole genome shotgun sequence
+k141_12545	Vibrio chemaguriensis strain Iso1 44, whole genome shotgun sequence
+k141_10041	Bradyrhizobium campsiandrae strain INPA 384B NODE_124_length_12378_cov_87.217218, whole genome shotgun sequence
+k141_10042	Haloferax sulfurifontis strain CCM 7217 sequence16, whole genome shotgun sequence
+k141_7634	Rhodoferax fermentans strain JCM 7819 contig02, whole genome shotgun sequence
+k141_4082	Nocardiopsis prasina DSM 43845 contig_159, whole genome shotgun sequence
+k141_10495	Arcicella aurantiaca strain DSM 22214 LV89DRAFT_scaffold00005.5, whole genome shotgun sequence
+k141_14555	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10043	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_4087	Salifodinibacter halophilus strain USBA 960 NODE_7_length_1431_cov_22.5761, whole genome shotgun sequence
+k141_4089	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_10497	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_10498	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7638	Streptomyces novaecaesareae strain NRRL B-1267 contig27.1, whole genome shotgun sequence
+k141_14557	Microbispora sitophila strain NEAU-D428 Scaffold37, whole genome shotgun sequence
+k141_13918	Pseudobacteriovorax antillogorgiicola strain DSM 103413 Ga0244732_101, whole genome shotgun sequence
+k141_14560	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_5253	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_3204	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_4091	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7642	Sunxiuqinia indica strain RC1_OXG_1F NODE_1_length_813698_cov_43.949497, whole genome shotgun sequence
+k141_7651	Streptomyces narbonensis strain JCM 4147 sequence084, whole genome shotgun sequence
+k141_10214	Bacteroides koreensis strain JCM 31393 Scaffold12_1, whole genome shotgun sequence
+k141_10216	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_6778	Paramesorhizobium deserti strain A-3-E Scaffold1, whole genome shotgun sequence
+k141_7661	Chitinophaga sancti strain DSM 784, whole genome shotgun sequence
+k141_7669	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7673	Teredinibacter turnerae 1133Y.S.0a.04 strain 1133Y.S.0a.4 K255DRAFT_scaffold00001.1, whole genome shotgun sequence
+k141_7676	Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence
+k141_14573	Streptomyces narbonensis strain JCM 4147 sequence190, whole genome shotgun sequence
+k141_4115	Rhodovulum viride strain JA756 NODE_248_length_312_cov_6.94163_ID_495, whole genome shotgun sequence
+k141_13237	Gemmata massiliana isolate Soil9 chromosome 1
+k141_14308	Rhodovulum viride strain JA756 NODE_218_length_363_cov_5.42857_ID_435, whole genome shotgun sequence
+k141_10218	Algibacillus agarilyticus strain RQJ05 RQJ50_scaffold7, whole genome shotgun sequence
+k141_10220	Winogradskyella eximia strain CECT 7946 Ga0244595_109, whole genome shotgun sequence
+k141_6782	Aquitalea denitrificans strain 5YN1-3 chromosome, complete genome
+k141_7681	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7694	Streptomyces narbonensis strain JCM 4147 sequence134, whole genome shotgun sequence
+k141_7695	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6785	Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+k141_10231	Putridiphycobacter roseus strain SM1701 SM1701_scaffold7, whole genome shotgun sequence
+k141_10233	Streptomyces novaecaesareae strain NRRL B-1267 contig110.1, whole genome shotgun sequence
+k141_10235	Motilimonas pumilua strain PLHSC7-2 contig51, whole genome shotgun sequence
+k141_7713	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_7714	Streptococcus sobrinus strain 10919 chromosome, complete genome
+k141_10237	Streptomyces niger strain NRRL B-3857 contig45.1, whole genome shotgun sequence
+k141_14311	Pararhodobacter zhoushanensis strain ZQ420 Scaffold24, whole genome shotgun sequence
+k141_14313	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_7725	Streptomyces narbonensis strain JCM 4147 sequence214, whole genome shotgun sequence
+k141_7728	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14319	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_7731	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14578	Planobispora takensis strain NBRC 109077 sequence039, whole genome shotgun sequence
+k141_14581	Haloferax sulfurifontis strain CCM 7217 sequence14, whole genome shotgun sequence
+k141_6797	Ilyomonas limi strain 17mud1-8 contig11, whole genome shotgun sequence
+k141_10256	Francisella frigiditurris strain CA97-1460 chromosome, complete genome
+k141_6798	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_6804	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14586	Streptomyces narbonensis strain JCM 4147 sequence191, whole genome shotgun sequence
+k141_6808	Neptunomonas phycophila strain Scap09 chromosome
+k141_7742	Rhodovulum viride strain JA756 NODE_318_length_219_cov_3.56707_ID_635, whole genome shotgun sequence
+k141_14594	Flavobacterium palustre strain CGMCC 1.12811 sequence36, whole genome shotgun sequence
+k141_14595	Streptomyces litmocidini strain JCM 4394 sequence43, whole genome shotgun sequence
+k141_6827	Pigmentiphaga aceris strain Mada1488 chromosome, complete genome
+k141_7754	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_6832	Vibrio chemaguriensis strain Iso1 44, whole genome shotgun sequence
+k141_6840	Fluoribacter bozemanae strain WIGA, whole genome shotgun sequence
+k141_6842	Streptomyces bikiniensis strain NRRL ISP-5580 contig36.1, whole genome shotgun sequence
+k141_6845	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_14330	Rariglobus hedericola strain 53C-WASEF NODE_1_length_2445945_cov_106.723303, whole genome shotgun sequence
+k141_14332	Aeromonas bestiarum strain GA97-22 Contig0002, whole genome shotgun sequence
+k141_14335	Kribbella monticola strain NEAU-SW521 scaffold29, whole genome shotgun sequence
+k141_6853	Clostridium thiosulfatireducens isolate src6, whole genome shotgun sequence
+k141_14336	Simplicispira lacusdiani strain CPCC 100842 Scaffold50, whole genome shotgun sequence
+k141_14344	Puia dinghuensis strain CGMCC 1.15448 sequence03, whole genome shotgun sequence
+k141_14345	Streptococcus canis strain NCTC12191 chromosome 1, complete sequence
+k141_14349	Azospirillum soli strain CC-LY788 Ga0451091_10, whole genome shotgun sequence
+k141_14353	Thalassotalea litorea strain MCCC 1K03283 Scaffold64_1, whole genome shotgun sequence
+k141_14361	Rhodovulum viride strain JA756 NODE_104_length_1122_cov_12.0609_ID_207, whole genome shotgun sequence
+k141_14369	Streptomyces narbonensis strain JCM 4147 sequence094, whole genome shotgun sequence
+k141_14371	Lactobacillus kisonensis DSM 19906 = JCM 15041 strain DSM 19906 Scaffold13, whole genome shotgun sequence
